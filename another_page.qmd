@@ -1,0 +1,6 @@
+---
+title: "Another page"
+editor: visual
+---
+
+This is another web page.
