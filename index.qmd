@@ -1,11 +1,9 @@
 ---
-title: "home"
+title: "Mapping Spatial Networks of Queer Pleasure Within New York City"
 ---
 
-This is a Quarto website.
+(Start by adding an introduction line to the map)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+(map goes on this page)
 
-```{r}
-1 + 1
-```
+(Below the map have the various locations listed with their open and close dates and any other information I have on them so far)
