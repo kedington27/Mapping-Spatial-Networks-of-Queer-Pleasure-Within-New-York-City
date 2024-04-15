@@ -2,8 +2,28 @@
 title: "About"
 ---
 
-About this site
+This webpage serves as the second part of my MA portfolio project. 
+In its current form it is a beginning of what the final project should be.
+This is a website that will trace the history of queer spatial geography in New 
+York City from the 1970s until 1999. 
+I am interested in analyzing the locations of what Fiona Buckland called “third 
+spaces” for queer people, especially gay bars, clubs, and bathhouses. 
 
-```{r}
-1 + 1
-```
+
+The goal of the website is to understand the networks of queer pleasure, fun, 
+and erotic encounters that work to protect, celebrate, and raise awareness of 
+homosexual culture through viewing the locations of homosexual establishments 
+and identities within the urban environment. 
+
+
+In its final form the website will trace the openings, closings, and relocating 
+or negotiations occurring within the city at the time to show the attempts by the 
+dominant society to limit queer spaces, representation, and culture. 
+It does this via mapping and adding descriptions of the establishments. Currently 
+the map is static with only a few locations listed but hopefully in the future 
+there will be an interactive feature to the map that will link pages about each 
+location to the main map.
+
+This project took influence and hopes to contibute to the ongoing mapping efforts 
+by other sites like https://www.queermaps.org/about and  https://www.nyclgbtsites.org/theme/bars-nightlife/
+
