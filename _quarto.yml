@@ -7,9 +7,10 @@ website:
     style: docked
     contents: 
       - href: index.qmd
-        text: Home
+        text: Mapping Spatial Networks of Queer Pleasure Within New York City
       - href: about.qmd
       - href: another_page.qmd
+        text: Contributor
 
 format:
   html:
