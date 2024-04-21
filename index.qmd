@@ -64,3 +64,8 @@ Bathhouses:
 2.  Everard Baths: 28 West 28th Street, Chelsea
 3.  Mt. Morris Baths: 28 East 125th Street, Harlem
 4.  New St. Marks Baths: 6 St. Mark's Place, East Village
+
+Cruising locations:
+
+1.  Central Park: Central Park, Upper East Side and Upper West Side
+2.  Greenwich Village Waterfront: Christopher Street Pier, Greenwich Village
