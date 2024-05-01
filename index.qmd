@@ -2,11 +2,35 @@
 title: "Mapping Spatial Networks of Queer Pleasure Within New York City"
 ---
 
-(Start by adding an introduction line to the map)
+Below is a map of New York City (Manhattan) queer bars, clubs, bathhouses, and cruising locations open between 1970-1999. Some of the establishments were open before 1970 and many of them close after 1999 however these are the bounding years of my study so far. Below the map are detailed explanations of each location's history. Enjoy!
 
-(map goes on this page)
+```{r}
+#| label: set-up
+#| include: false
+library(osmdata)
+library(mapview)
+library(tidyverse)
+library(sf)
+library(rnaturalearth)
+library(tidygeocoder)
+library(here)
 
-(Below the map have the various locations listed with their open and close dates and any other information I have on them so far)
+coastlines <- st_read(dsn = "data/coastlines.geojson")
+nightlife_geo_sf <- st_read(dsn = "data/nightlife_geo_sf.geojson")
+streets <- st_read(dsn = "data/streets.geojson")
+```
+
+```{r}
+#| label: map 
+#| results: hide
+#| echo: false
+ggplot() +
+  geom_sf(data = streets, linewidth = 0.1, color = "grey20") +
+   geom_sf(data = nightlife_geo_sf, size = 1, color = "red3") +
+  geom_sf(data = coastlines, linewidth = 0.3, color = "blue3") +
+  coord_sf(xlim = c(-74.03, -73.89), ylim = c(40.7, 40.88)) +
+  theme_void()
+```
 
 Bars and Clubs:
 
