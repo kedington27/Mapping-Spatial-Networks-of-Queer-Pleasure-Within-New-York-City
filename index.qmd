@@ -24,12 +24,15 @@ streets <- st_read(dsn = "data/streets.geojson")
 #| label: map 
 #| results: hide
 #| echo: false
+#| fig-align: center
 ggplot() +
   geom_sf(data = streets, linewidth = 0.1, color = "grey20") +
    geom_sf(data = nightlife_geo_sf, size = 1, color = "red3") +
   geom_sf(data = coastlines, linewidth = 0.3, color = "blue3") +
   coord_sf(xlim = c(-74.03, -73.89), ylim = c(40.7, 40.88)) +
-  theme_void()
+  theme_void() +
+  theme(plot.background = element_rect(fill = "#FFC0CB",
+                                       color = "#FFC0CB"))
 ```
 
 Bars and Clubs:
