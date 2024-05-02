@@ -35,7 +35,7 @@ ggplot() +
                                        color = "#FFC0CB"))
 ```
 
-Bars and Clubs:
+## Bars and Clubs:
 
 1.  Bar Room 432/Mother: 432 West 14th Street, Meatpacking District. It was known as Bar Room 432 from 1990 until 1996. In 1996 it was reopened as Mother until it closed its doors in 2000.
 
@@ -131,7 +131,7 @@ Bars and Clubs:
 
 47. Vinyl: 6 Hubert Street, Tribeca
 
-Bathhouses:
+## Bathhouses:
 
 1.  Continental Baths at the Ansonia Hotel: 230 West 74th Street, Upper West Side. The Continental Baths operated from 1968 until 1976. The owner Steve Ostrow sought to improve the bathhouse experience by adding dancing, private rooms, a cabaret stage, sauna rooms, waterfalls, a gym, bar, STD clinic and sun roof deck. The place closed 1976 due to lack of interest as it catered to more straight patrons and tourists instead of increasing opportunities for gay public sex.
 
@@ -141,7 +141,7 @@ Bathhouses:
 
 4.  New St. Marks Baths: 6 St. Mark's Place, East Village. The St. Marks Baths opened in 1915 and catered originally to male immigrants. Only in the 1950s do gay men appear to be a large clientele for the Baths only at night. By the 1960s it was a fully gay bathhouse known for being uninviting and dirty. Bruce Mailman in 1979 bought the Baths and hoped to turn the reputation around by renovating and renaming it the New St. Marks Bath that was open 24 hours a day. It became a massive bathhouse with spaces for swimming, relaxing, and having public group sex. During the AIDS epidemic the New St. Marks Baths stayed open until 1985 when the city ordered every bathhouse to be closed. In that time the bath worked to provide sex education materials and condoms while still providing a safe space for men to have their sexual relations outside their homes.
 
-Cruising locations:
+## Cruising locations:
 
 1.  Central Park: Central Park, Upper East Side and Upper West Side. Central Park was a known cruising spot for queer men since it opened in 1857 however by the 1970s and 80s it was also used by the gay community for Gay Pride Marches. While its status as a cruising location became less prominent by the 1970s and 80s it is hard to imagine that it stopped being used in such a way therefore it remains on the list.
 
