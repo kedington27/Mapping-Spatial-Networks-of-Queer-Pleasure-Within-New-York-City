@@ -156,3 +156,5 @@ ggplot() +
 ## Theaters and Porn Theaters:
 
 ## Private Clubs:
+
+## Restaurants:
