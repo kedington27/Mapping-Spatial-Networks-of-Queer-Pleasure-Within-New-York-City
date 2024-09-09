@@ -1,0 +1,34 @@
+---
+title: "brooklyn map"
+---
+```{r}
+#| label: set-up
+#| include: false
+library(osmdata)
+library(mapview)
+library(tidyverse)
+library(sf)
+library(rnaturalearth)
+library(tidygeocoder)
+library(here)
+
+brooklyn_streets <- st_read("data/brooklyn_streets.geojson")
+brooklyn_coastlines <- st_read("data/brooklyn_coastlines.geojson")
+brooklyn_nightlife_geo_sf <- st_read("data/brooklyn_nightlife_geo_sf.geojson")
+```
+
+```{r}
+#| label: map 
+#| results: hide
+#| echo: false
+#| fig-align: center
+ggplot() +
+  geom_sf(data = brooklyn_streets, linewidth = 0.1, color = "grey20") +
+  geom_sf(data = brooklyn_nightlife_geo_sf, size = 1, color = "red3") +
+  geom_sf(data = brooklyn_coastlines, linewidth = 0.3, color = "blue3") +
+  coord_sf(xlim = c(-74.06438, -73.80907), ylim = c(40.54713, 40.74793))+
+  theme_void() +
+  theme(plot.background = element_rect(fill = "#FFC0CB",
+                                       color = "#FFC0CB"))
+```
+

@@ -20,6 +20,7 @@ nightlife_geo_sf <- st_read(dsn = "data/nightlife_geo_sf.geojson")
 streets <- st_read(dsn = "data/streets.geojson")
 ```
 
+
 ```{r}
 #| label: map 
 #| results: hide
@@ -33,6 +34,7 @@ ggplot() +
   theme_void() +
   theme(plot.background = element_rect(fill = "#FFC0CB",
                                        color = "#FFC0CB"))
+```
 ```
 
 ## Bars and Clubs:
