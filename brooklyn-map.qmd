@@ -1,6 +1,7 @@
 ---
 title: "brooklyn map"
 ---
+Below is a map of New York City (Brooklyn) queer bars, clubs, bathhouses, and cruising locations open between 1970-1999. Some of the establishments were open before 1970 and many of them close after 1999 however these are the bounding years of my study so far. Below the map are detailed explanations of each location's history. Enjoy!
 ```{r}
 #| label: set-up
 #| include: false
