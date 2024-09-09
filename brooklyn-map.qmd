@@ -32,3 +32,4 @@ ggplot() +
                                        color = "#FFC0CB"))
 ```
 
+## Bars and Clubs:
