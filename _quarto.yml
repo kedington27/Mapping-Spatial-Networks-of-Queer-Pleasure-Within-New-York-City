@@ -11,6 +11,8 @@ website:
       - href: about.qmd
       - href: another_page.qmd
         text: Contributor
+      - href: brooklyn-map.qmd
+        text: Brooklyn Map
 
 format:
   html:
