@@ -1,12 +1,19 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "brooklyn-map.html#bars-and-clubs",
+    "href": "brooklyn-map.html#bars-and-clubs",
+    "title": "brooklyn map",
+    "section": "Bars and Clubs:",
+    "text": "Bars and Clubs:"
+  },
+  {
+    "objectID": "another_page.html",
+    "href": "another_page.html",
+    "title": "Contributor",
     "section": "",
-    "text": "This webpage serves as the second part of my MA portfolio project. In its current form it is a beginning of what the final project should be. This is a website that will trace the history of queer spatial geography in New York City from the 1970s until 1999. I am interested in analyzing the locations of what Fiona Buckland called “third spaces” for queer people, especially gay bars, clubs, and bathhouses.\nThe goal of the website is to understand the networks of queer pleasure, fun, and erotic encounters that work to protect, celebrate, and raise awareness of homosexual culture through viewing the locations of homosexual establishments and identities within the urban environment.\nIn its final form the website will trace the openings, closings, and relocating or negotiations occurring within the city at the time to show the attempts by the dominant society to limit queer spaces, representation, and culture. It does this via mapping and adding descriptions of the establishments. Currently the map is static with only a few locations listed but hopefully in the future there will be an interactive feature to the map that will link pages about each location to the main map.\nThis project took influence and hopes to contibute to the ongoing mapping efforts by other sites like https://www.queermaps.org/about and https://www.nyclgbtsites.org/theme/bars-nightlife/",
+    "text": "Kylie Edington:\nI am currently a Graduate Student at Virginia Tech ’25. I am in my first year of the History MA program, and my main research area is within the gender and sexuality framework. I am interested in queer history, histories of gender and sexuality, and the concepts of enjoyment and pleasure. I want to learn and explore new groups and find the moments of everyday pleasure in their lives to highlight the fun, freedoms, and opportunities people had in the past. Therefore, my current MA research projects both center on queer people in urban New York in the late 1900s, where they went to socialize and seek pleasure, and how they fought to find new ways to pursue sexual pleasure during the AIDS crisis.",
     "crumbs": [
-      "About"
+      "Contributor"
     ]
   },
   {
@@ -14,7 +21,7 @@
     "href": "index.html",
     "title": "Mapping Spatial Networks of Queer Pleasure Within New York City",
     "section": "",
-    "text": "Below is a map of New York City (Manhattan) queer bars, clubs, bathhouses, and cruising locations open between 1970-1999. Some of the establishments were open before 1970 and many of them close after 1999 however these are the bounding years of my study so far. Below the map are detailed explanations of each location’s history. Enjoy!",
+    "text": "Below is a map of New York City (Manhattan) queer bars, clubs, bathhouses, and cruising locations open between 1970-1999. Some of the establishments were open before 1970 and many of them close after 1999 however these are the bounding years of my study so far. Below the map are detailed explanations of each location’s history. Enjoy!\n```",
     "crumbs": [
       "Mapping Spatial Networks of Queer Pleasure Within New York City"
     ]
@@ -50,13 +57,73 @@
     ]
   },
   {
-    "objectID": "another_page.html",
-    "href": "another_page.html",
-    "title": "Contributor",
-    "section": "",
-    "text": "Kylie Edington:\nI am currently a Graduate Student at Virginia Tech ’25. I am in my first year of the History MA program, and my main research area is within the gender and sexuality framework. I am interested in queer history, histories of gender and sexuality, and the concepts of enjoyment and pleasure. I want to learn and explore new groups and find the moments of everyday pleasure in their lives to highlight the fun, freedoms, and opportunities people had in the past. Therefore, my current MA research projects both center on queer people in urban New York in the late 1900s, where they went to socialize and seek pleasure, and how they fought to find new ways to pursue sexual pleasure during the AIDS crisis.",
+    "objectID": "index.html#bookstores-and-sex-shops",
+    "href": "index.html#bookstores-and-sex-shops",
+    "title": "Mapping Spatial Networks of Queer Pleasure Within New York City",
+    "section": "Bookstores and Sex Shops:",
+    "text": "Bookstores and Sex Shops:",
     "crumbs": [
-      "Contributor"
+      "Mapping Spatial Networks of Queer Pleasure Within New York City"
+    ]
+  },
+  {
+    "objectID": "index.html#coffeehouses",
+    "href": "index.html#coffeehouses",
+    "title": "Mapping Spatial Networks of Queer Pleasure Within New York City",
+    "section": "Coffeehouses:",
+    "text": "Coffeehouses:",
+    "crumbs": [
+      "Mapping Spatial Networks of Queer Pleasure Within New York City"
+    ]
+  },
+  {
+    "objectID": "index.html#hotels",
+    "href": "index.html#hotels",
+    "title": "Mapping Spatial Networks of Queer Pleasure Within New York City",
+    "section": "Hotels:",
+    "text": "Hotels:",
+    "crumbs": [
+      "Mapping Spatial Networks of Queer Pleasure Within New York City"
+    ]
+  },
+  {
+    "objectID": "index.html#theaters-and-porn-theaters",
+    "href": "index.html#theaters-and-porn-theaters",
+    "title": "Mapping Spatial Networks of Queer Pleasure Within New York City",
+    "section": "Theaters and Porn Theaters:",
+    "text": "Theaters and Porn Theaters:",
+    "crumbs": [
+      "Mapping Spatial Networks of Queer Pleasure Within New York City"
+    ]
+  },
+  {
+    "objectID": "index.html#private-clubs",
+    "href": "index.html#private-clubs",
+    "title": "Mapping Spatial Networks of Queer Pleasure Within New York City",
+    "section": "Private Clubs:",
+    "text": "Private Clubs:",
+    "crumbs": [
+      "Mapping Spatial Networks of Queer Pleasure Within New York City"
+    ]
+  },
+  {
+    "objectID": "index.html#restaurants",
+    "href": "index.html#restaurants",
+    "title": "Mapping Spatial Networks of Queer Pleasure Within New York City",
+    "section": "Restaurants:",
+    "text": "Restaurants:",
+    "crumbs": [
+      "Mapping Spatial Networks of Queer Pleasure Within New York City"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This webpage serves as the second part of my MA portfolio project. In its current form it is a beginning of what the final project should be. This is a website that will trace the history of queer spatial geography in New York City from the 1970s until 1999. I am interested in analyzing the locations of what Fiona Buckland called “third spaces” for queer people, especially gay bars, clubs, and bathhouses.\nThe goal of the website is to understand the networks of queer pleasure, fun, and erotic encounters that work to protect, celebrate, and raise awareness of homosexual culture through viewing the locations of homosexual establishments and identities within the urban environment.\nIn its final form the website will trace the openings, closings, and relocating or negotiations occurring within the city at the time to show the attempts by the dominant society to limit queer spaces, representation, and culture. It does this via mapping and adding descriptions of the establishments. Currently the map is static with only a few locations listed but hopefully in the future there will be an interactive feature to the map that will link pages about each location to the main map.\nThis project took influence and hopes to contibute to the ongoing mapping efforts by other sites like https://www.queermaps.org/about and https://www.nyclgbtsites.org/theme/bars-nightlife/",
+    "crumbs": [
+      "About"
     ]
   }
 ]
