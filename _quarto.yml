@@ -11,8 +11,14 @@ website:
       - href: about.qmd
       - href: another_page.qmd
         text: Contributor
-      - href: brooklyn-map.qmd
-        text: Brooklyn Map
+      - href: liquor-gay.qmd
+        text: Liquor Licensing as Discrimination
+      - href: cabarets.qmd
+        text: Cabaret Licensing as Discrimination
+      - href: AIDS.qmd
+        text: AIDS and Public Sex: Debates on Sex Establishments
+      - href: background.qmd
+        text: Background: Stonewall & 1970s Gay Liberation
 
 format:
   html:
