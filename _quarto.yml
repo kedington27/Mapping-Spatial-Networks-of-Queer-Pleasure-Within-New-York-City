@@ -19,6 +19,16 @@ website:
         text: Cabaret Licensing as Discrimination
       - href: AIDS.qmd
         text: AIDS and Public Sex~ Debates on Sex Establishments
+  search: 
+    location: sidebar
+    type: textbox
+  comments: 
+    giscus: 
+      repo: kedington27/Mapping-Spatial-Networks-of-Queer-Pleasure-Within-New-York-City
+      category: General
+      mapping: title
+      theme: 
+        dark: dark_protanopia
 
 format:
   html:
