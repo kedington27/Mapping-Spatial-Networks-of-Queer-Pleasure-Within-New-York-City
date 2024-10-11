@@ -14,7 +14,7 @@
     "href": "brooklyn-map.html#bars-and-clubs",
     "title": "brooklyn map",
     "section": "Bars and Clubs:",
-    "text": "Bars and Clubs:",
+    "text": "Bars and Clubs:\n\nleaflet() %&gt;%\n  addTiles() %&gt;%\n  setView(-74.00, 40.71, zoom = 11)",
     "crumbs": [
       "Brooklyn Map"
     ]
@@ -34,7 +34,7 @@
     "href": "index.html",
     "title": "Mapping Spatial Networks of Queer Pleasure Within New York City",
     "section": "",
-    "text": "Below is a map of New York City (Manhattan) queer bars, clubs, bathhouses, and cruising locations open between 1970-1999. Some of the establishments were open before 1970 and many of them close after 1999 however these are the bounding years of my study so far. Below the map are detailed explanations of each location’s history. Enjoy!\n```",
+    "text": "Below is a map of New York City (Manhattan) queer bars, clubs, bathhouses, and cruising locations open between 1970-1999. Some of the establishments were open before 1970 and many of them close after 1999 however these are the bounding years of my study so far. Below the map are detailed explanations of each location’s history. Enjoy!",
     "crumbs": [
       "Mapping Spatial Networks of Queer Pleasure Within New York City"
     ]
