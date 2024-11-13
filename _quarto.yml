@@ -8,9 +8,6 @@ website:
     contents: 
       - href: index.qmd
         text: Mapping Spatial Networks of Queer Pleasure Within New York City
-      - href: about.qmd
-      - href: another_page.qmd
-        text: Contributor
       - href: background.qmd
         text: Background~ Stonewall & Gay Liberation
       - href: liquor-gay.qmd
@@ -19,6 +16,9 @@ website:
         text: Cabaret Licensing as Discrimination
       - href: AIDS.qmd
         text: AIDS and Public Sex~ Debates on Sex Establishments
+      - href: about.qmd
+      - href: another_page.qmd
+        text: Contributor
   search: 
     location: sidebar
     type: textbox

@@ -5,15 +5,21 @@ title: "About"
 This webpage serves as the second part of my MA portfolio project. 
 In its current form it is a beginning of what the final project should be.
 This is a website that will trace the history of queer spatial geography in New 
-York City from the 1970s until 1999. 
+York City from the 1970s until 1986. 
 I am interested in analyzing the locations of what Fiona Buckland called “third 
-spaces” for queer people, especially gay bars, clubs, and bathhouses. 
+spaces” for queer people, especially gay bars, clubs, bathhouses, bookstores, 
+cinemas, restaurants, sex stores, backrooms, and cruising locations.
 
 
-The goal of the website is to understand the networks of queer pleasure, fun, 
-and erotic encounters that work to protect, celebrate, and raise awareness of 
-homosexual culture through viewing the locations of homosexual establishments 
-and identities within the urban environment. 
+The map and the companion text-based pages are an extension of my paper’s 
+argument that safer sex education during AIDS was negotiated, contested, and 
+implemented in public queer spaces by queer actors. It further visually supports 
+and provides context for the acts of discrimination and general public health 
+debates that impacted queer communities and establishments before and during 
+AIDS. It visually argues that the government was both slow to shut down 
+bathhouses and backrooms during AIDS and that it continued to use tactics of 
+licensing and rezoning to discriminate against the queer community before, 
+during, and after the peak of AIDS.
 
 
 In its final form the website will trace the openings, closings, and relocating 
@@ -25,5 +31,6 @@ there will be an interactive feature to the map that will link pages about each
 location to the main map.
 
 This project took influence and hopes to contibute to the ongoing mapping efforts 
-by other sites like https://www.queermaps.org/about and  https://www.nyclgbtsites.org/theme/bars-nightlife/
+by other sites like https://www.queermaps.org/about and 
+https://www.nyclgbtsites.org/theme/bars-nightlife/
 
