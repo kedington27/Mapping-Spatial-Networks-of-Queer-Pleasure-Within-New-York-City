@@ -3,6 +3,8 @@ title: "deleted info"
 ---
 ## Bars and Clubs:
 
+#| echo: false
+
 1.  Bar Room 432/Mother: 432 West 14th Street, Meatpacking District. It was known as Bar Room 432 from 1990 until 1996. In 1996 it was reopened as Mother until it closed its doors in 2000.
 
 2.  Blue's: 264 West 43rd Street, Theater District. It was a Black gay bar that was most famous for the raid the police conducted on the establishment in 1982. The bar closed in 1986 and a short lived drag bar opened in its place until a fire in 1992.

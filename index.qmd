@@ -34,7 +34,6 @@ staten_nightlife_geo_sf <- st_read(dsn = "data/staten_nightlife_geo_sf.geojson")
 ```
 
 ```{r}
-#| echo: false
 #| fig-align: center
 
 leaflet() %>%
