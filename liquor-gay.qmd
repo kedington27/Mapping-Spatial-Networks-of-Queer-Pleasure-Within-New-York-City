@@ -7,14 +7,13 @@ editor:
 
 ## What is a Liquor License?
 
--   Defining a Liquor License
+A liquor license is a permit issued by the government for businesses to
+sell, manufacture, store, or otherwise use alcoholic beverages.[^1]
 
-    -   A liquor license is a permit issued by the government for
-        businesses to sell, manufacture, store, or otherwise use
-        alcoholic beverages.[^1]
+[^1]: “Liquor License,” Wikipedia, February 16, 2020,
+    <https://en.wikipedia.org/wiki/Liquor_license>.
 
--   How does it connect to LGBTQ discrimination in New York City/within
-    the US?
+## How does it connect to LGBTQ discrimination in New York City/within the US?
 
     -   New York Liquor Authority in the mid-1900s refused to issue
         permits to places that homosexuals were known to congregate and
@@ -35,16 +34,14 @@ editor:
 
     -   Need to find this
 
--   How did queer establishments get around this restriction? How was it
-    enforced within New York?
+        -   Look into Snake Pit Bar raid for a good story
+
+## How did queer establishments get around this restriction? How was it enforced within New York?
 
     -   It was mostly through Mafia ownership and strict rules on
         patrons to ensure that things stayed socially acceptable within
         the bar and no one could "prove" it was a gay bar.
 
-        -   How do gay men remember this type of restriction and its
+## How do gay men remember this type of restriction and its
             impact on their feelings of safety or access to community?
             -   Also need to find this.
-
-[^1]: “Liquor License,” Wikipedia, February 16, 2020,
-    <https://en.wikipedia.org/wiki/Liquor_license>.
