@@ -1,5 +1,7 @@
 ---
 title: "Mapping Spatial Networks of Queer Pleasure Within New York City"
+runtime: shiny
+output: html_document
 ---
 
 Below is a map of the five boroughs of New York City's queer bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations open between 1970-1986. Some of the establishments were open before 1970 and many of them close after 1986 however these are the bounding years of my study so far. Below the map are detailed explanations of each location's history. Enjoy!
@@ -46,4 +48,7 @@ leaflet() %>%
   addMarkers(data = queens_nightlife_geo_sf)
 ```
 
+
+
+```
 
