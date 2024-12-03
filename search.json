@@ -54,7 +54,7 @@
     "href": "liquor-gay.html#how-does-it-connect-to-lgbtq-discrimination-in-new-york-citywithin-the-us",
     "title": "Liquor Licensing as Discrimination",
     "section": "How does it connect to LGBTQ discrimination in New York City/within the US?",
-    "text": "How does it connect to LGBTQ discrimination in New York City/within the US?\n-   New York Liquor Authority in the mid-1900s refused to issue\n    permits to places that homosexuals were known to congregate and\n    if bars were found to be homosexual hot spots their licenses\n    would be removed and they would often be raided.\n\n-   Most New York gay bars before the 1970s were owned and operated\n    by the Mafia due to the discrimination by police and the liquor\n    authorities. Due to the underground, secretive, and\n    crime-entangled nature of the Mafia their ownership allowed gay\n    bars to operate in relative secret within the city, however\n    their treatment of patrons and often strict rules led to\n    feelings of resentment from within the queer community as the\n    1960s drew to a close.\n\nAn example/story about the use of this type of regulation quoted from George Chauncey or from a newspaper article\n\nNeed to find this\n\nLook into Snake Pit Bar raid for a good story",
+    "text": "How does it connect to LGBTQ discrimination in New York City/within the US?\nNew York Liquor Authority in the mid-1900s refused to issue permits to places that homosexuals were known to congregate and if bars were found to be homosexual hot spots their licenses would be removed and they would often be raided.\nMost New York gay bars before the 1970s were owned and operated by the Mafia due to the discrimination by police and the liquor authorities. Due to the underground, secretive, and crime-entangled nature of the Mafia their ownership allowed gay bars to operate in relative secret within the city, however their treatment of patrons and often strict rules led to feelings of resentment from within the queer community as the 1960s drew to a close.\n\nAn example/story about the use of this type of regulation quoted from George Chauncey or from a newspaper article\n\nNeed to find this\n\nLook into Snake Pit Bar raid for a good story",
     "crumbs": [
       "Liquor Licensing as Discrimination"
     ]
@@ -104,7 +104,7 @@
     "href": "index.html",
     "title": "Mapping Spatial Networks of Queer Pleasure Within New York City",
     "section": "",
-    "text": "Below is a map of the five boroughs of New York City’s queer bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations open between 1970-1986. Some of the establishments were open before 1970 and many of them close after 1986 however these are the bounding years of my study so far. Below the map are detailed explanations of each location’s history. Enjoy!\n\nleaflet() %&gt;%\n  addTiles() %&gt;%\n  setView(-74.00, 40.71, zoom = 11) %&gt;%\n  addMarkers(data = nightlife_geo_sf1) %&gt;%  \n  addMarkers(data = brooklyn_nightlife_geo_sf1) %&gt;%\n  addMarkers(data = bronx_nightlife_geo_sf) %&gt;%\n  addMarkers(data = staten_nightlife_geo_sf) %&gt;%\n  addMarkers(data = queens_nightlife_geo_sf)",
+    "text": "Below is a map of the five boroughs of New York City’s queer bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations open between 1970-1986. Some of the establishments were open before 1970 and many of them close after 1986 however these are the bounding years of my study so far. Below the map are detailed explanations of each location’s history. Enjoy!\n\nleaflet() %&gt;%\n  addTiles() %&gt;%\n  setView(-74.00, 40.71, zoom = 11) %&gt;%\n  addMarkers(data = nightlife_geo_sf1) %&gt;%  \n  addMarkers(data = brooklyn_nightlife_geo_sf1) %&gt;%\n  addMarkers(data = bronx_nightlife_geo_sf) %&gt;%\n  addMarkers(data = staten_nightlife_geo_sf) %&gt;%\n  addMarkers(data = queens_nightlife_geo_sf)\n\n\n\n\n\n```",
     "crumbs": [
       "Mapping Spatial Networks of Queer Pleasure Within New York City"
     ]
@@ -274,7 +274,7 @@
     "href": "AIDS.html#what-were-early-theories-about-how-aids-was-transmitted",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
     "section": "What were early theories about how AIDS was transmitted?",
-    "text": "What were early theories about how AIDS was transmitted?\n-   Poppers\n\n-   promiscuity\n\n-   blood\n\n-   multi-causal through various STI's\n\n-   drugs\n\n-   more obscure theories about Haitian pigs, mental illness, and\n    self hatred",
+    "text": "What were early theories about how AIDS was transmitted?\nPoppers: The CDC in the early days of their investigation in 1981 proposed the theory that poppers might be linked to AIDS. This conclusion was made because all of the first reported cases that they saw as linked were gay men who upon their interviews admitted to “sexual promiscuity” along with taking party drugs and sex aids like poppers. Poppers are inhaled and are known to relax muscles and to create a short lived high for users. They mess with the blood stream and veins so the CDC thought prolonged use might cause KS to develop, which was a common symptom in early patients. This theory remained in circulation until 1985 when it was determined that AIDS was caused by the HIV virus. However, some people still attribute poppers to KS and AIDS. (Use Zmith and Shilts for more details)\n-   promiscuity\n\n-   blood/virus\n\n-   multi-causal through various STI's\n\n-   drugs\n\n-   more obscure theories about Haitian pigs, mental illness, and\n    self hatred",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
@@ -290,11 +290,11 @@
     ]
   },
   {
-    "objectID": "AIDS.html#closing-public-sex-establishments-as-a-public-health-measure",
-    "href": "AIDS.html#closing-public-sex-establishments-as-a-public-health-measure",
+    "objectID": "AIDS.html#closing-public-sex-establishments-as-a-public-health-measure-defended",
+    "href": "AIDS.html#closing-public-sex-establishments-as-a-public-health-measure-defended",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
-    "section": "Closing public sex establishments as a Public Health measure",
-    "text": "Closing public sex establishments as a Public Health measure\ndefended:\n\n-   Shilts, France, Callen, Kramer, newspaper articles",
+    "section": "Closing public sex establishments as a Public Health measure defended:",
+    "text": "Closing public sex establishments as a Public Health measure defended:\n-   Shilts, France, Callen, Kramer, newspaper articles",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
@@ -310,21 +310,21 @@
     ]
   },
   {
-    "objectID": "AIDS.html#were-there-options-to-re-purpose-public-sex-establishments-within",
-    "href": "AIDS.html#were-there-options-to-re-purpose-public-sex-establishments-within",
+    "objectID": "AIDS.html#were-there-options-to-re-purpose-public-sex-establishments-within-the-queer-community",
+    "href": "AIDS.html#were-there-options-to-re-purpose-public-sex-establishments-within-the-queer-community",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
-    "section": "Were there options to re-purpose public sex establishments within",
-    "text": "Were there options to re-purpose public sex establishments within\nthe queer community?\n\n-   educational options\n\n-   increased regulations within spaces",
+    "section": "Were there options to re-purpose public sex establishments within the queer community?",
+    "text": "Were there options to re-purpose public sex establishments within the queer community?\n-   educational options\n\n-   increased regulations within spaces",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
   },
   {
-    "objectID": "AIDS.html#outcomes-in-new-york-bathhouses-try-to-add-educational-content-but",
-    "href": "AIDS.html#outcomes-in-new-york-bathhouses-try-to-add-educational-content-but",
+    "objectID": "AIDS.html#outcomes-in-new-york",
+    "href": "AIDS.html#outcomes-in-new-york",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
-    "section": "Outcomes in New York: bathhouses try to add educational content but",
-    "text": "Outcomes in New York: bathhouses try to add educational content but\nin the end get closed by the city after extreme pressure from a\nportion of the queer comm- unity.",
+    "section": "Outcomes in New York:",
+    "text": "Outcomes in New York:\nbathhouses try to add educational content but in the end get closed by the city after extreme pressure from a portion of the queer community.",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
