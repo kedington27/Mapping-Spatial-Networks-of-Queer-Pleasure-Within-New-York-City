@@ -70,16 +70,6 @@
     ]
   },
   {
-    "objectID": "liquor-gay.html#how-do-gay-men-remember-this-type-of-restriction-and-its",
-    "href": "liquor-gay.html#how-do-gay-men-remember-this-type-of-restriction-and-its",
-    "title": "Liquor Licensing as Discrimination",
-    "section": "How do gay men remember this type of restriction and its",
-    "text": "How do gay men remember this type of restriction and its\n        impact on their feelings of safety or access to community?\n        -   Also need to find this.",
-    "crumbs": [
-      "Liquor Licensing as Discrimination"
-    ]
-  },
-  {
     "objectID": "liquor-gay.html#footnotes",
     "href": "liquor-gay.html#footnotes",
     "title": "Liquor Licensing as Discrimination",
@@ -94,7 +84,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "This webpage serves as the second part of my MA portfolio project. In its current form it is a beginning of what the final project should be. This is a website that will trace the history of queer spatial geography in New York City from the 1970s until 1986. I am interested in analyzing the locations of what Fiona Buckland called “third spaces” for queer people, especially gay bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations.\nThe map and the companion text-based pages are an extension of my paper’s argument that safer sex education during AIDS was negotiated, contested, and implemented in public queer spaces by queer actors. It further visually supports and provides context for the acts of discrimination and general public health debates that impacted queer communities and establishments before and during AIDS. It visually argues that the government was both slow to shut down bathhouses and backrooms during AIDS and that it continued to use tactics of licensing and rezoning to discriminate against the queer community before, during, and after the peak of AIDS.\nIn its final form the website will trace the openings, closings, and relocating or negotiations occurring within the city at the time to show the attempts by the dominant society to limit queer spaces, representation, and culture. It does this via mapping and adding descriptions of the establishments. Currently the map is static with only a few locations listed but hopefully in the future there will be an interactive feature to the map that will link pages about each location to the main map.\nThis project took influence and hopes to contibute to the ongoing mapping efforts by other sites like https://www.queermaps.org/about and https://www.nyclgbtsites.org/theme/bars-nightlife/",
+    "text": "This webpage serves as the second part of my MA portfolio project. In its current form it is a beginning of what the final project should be. This is a website that will trace the history of queer spatial geography in New York City from the 1970s until 1986. I am interested in analyzing the locations of what Fiona Buckland called “third spaces” for queer people, especially gay bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations.\nThe map and the companion text-based pages are an extension of my paper’s argument that safer sex education during AIDS was negotiated, contested, and implemented in public queer spaces by queer actors. It further visually supports and provides context for the acts of discrimination and general public health debates that impacted queer communities and establishments before and during AIDS. It visually argues that the government was both slow to shut down bathhouses and backrooms during AIDS and that it continued to use tactics of licensing and rezoning to discriminate against the queer community before, during, and after the peak of AIDS.\nIn its final form the website will trace the openings, closings, and relocating or negotiations occurring within the city at the time to show the attempts by the dominant society to limit queer spaces, representation, and culture. It does this via mapping and adding descriptions of the establishments.\nThis project took influence and hopes to contribute to the ongoing mapping efforts by other sites like https://www.queermaps.org/about and https://www.nyclgbtsites.org/theme/bars-nightlife/",
     "crumbs": [
       "About"
     ]
@@ -104,7 +94,7 @@
     "href": "index.html",
     "title": "Mapping Spatial Networks of Queer Pleasure Within New York City",
     "section": "",
-    "text": "Below is a map of the five boroughs of New York City’s queer bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations open between 1970-1986. Some of the establishments were open before 1970 and many of them close after 1986 however these are the bounding years of my study so far. Below the map are detailed explanations of each location’s history. Enjoy!\n\nleaflet() %&gt;%\n  addTiles() %&gt;%\n  setView(-74.00, 40.71, zoom = 11) %&gt;%\n  addMarkers(data = nightlife_geo_sf1) %&gt;%  \n  addMarkers(data = brooklyn_nightlife_geo_sf1) %&gt;%\n  addMarkers(data = bronx_nightlife_geo_sf) %&gt;%\n  addMarkers(data = staten_nightlife_geo_sf) %&gt;%\n  addMarkers(data = queens_nightlife_geo_sf)\n\n\n\n\n\n```",
+    "text": "Below is a map of the five boroughs of New York City’s queer bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations open between 1970-1986. Some of the establishments were open before 1970 and many of them close after 1986 however these are the bounding years of my study so far. Below the map will be a link to a Shiny App that will allow further exploration of the locations on this Leaflet map including listing place names and filtering by type of establishment and years of operation. Enjoy!\n\nleaflet() %&gt;%\n  addTiles() %&gt;%\n  setView(-74.00, 40.71, zoom = 11) %&gt;%\n  addMarkers(data = nightlife_geo_sf1) %&gt;%  \n  addMarkers(data = brooklyn_nightlife_geo_sf1) %&gt;%\n  addMarkers(data = bronx_nightlife_geo_sf) %&gt;%\n  addMarkers(data = staten_nightlife_geo_sf) %&gt;%\n  addMarkers(data = queens_nightlife_geo_sf)\n\n\n\n\n\n```",
     "crumbs": [
       "Mapping Spatial Networks of Queer Pleasure Within New York City"
     ]
@@ -234,7 +224,7 @@
     "href": "AIDS.html",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
     "section": "",
-    "text": "AIDS is the last stage of HIV infection that occurs when the body’s immune system is badly damaged because of the HIV virus. HIV is a virus that attacks cells that help the body fight infection, making a person more vulnerable to other infections and diseases.1 HIV/AIDS is spread through specific bodily fluids like semen and blood. It is now most often spread during unprotected sex and through sharing needles.",
+    "text": "AIDS (Acquired Immuno Deficiency Syndrome) is the last stage of HIV (Human Immunodeficiency Virus) infection that occurs when the body’s immune system is badly damaged because of the HIV virus. HIV is a virus that attacks cells that help the body fight infection, making a person more vulnerable to other infections and diseases.1 HIV/AIDS is spread through specific bodily fluids like semen and blood. It is now most often spread during unprotected sex and through sharing needles.\nAIDS was connected upon its discovery to gay men but it is important to mention that it is not only a disease that has and does affect homosexual men. IV drug users, Haitians, hemophiliacs, blood transfusion recipients, and children of HIV positive women were all populations alongside gay men who sought treatment, research, and services for their health problems. However, since this project’s scope is gay men and their establishments this page will focus primarily on AIDS issues that effected gay men.",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
@@ -244,7 +234,7 @@
     "href": "AIDS.html#what-is-aids",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
     "section": "",
-    "text": "AIDS is the last stage of HIV infection that occurs when the body’s immune system is badly damaged because of the HIV virus. HIV is a virus that attacks cells that help the body fight infection, making a person more vulnerable to other infections and diseases.1 HIV/AIDS is spread through specific bodily fluids like semen and blood. It is now most often spread during unprotected sex and through sharing needles.",
+    "text": "AIDS (Acquired Immuno Deficiency Syndrome) is the last stage of HIV (Human Immunodeficiency Virus) infection that occurs when the body’s immune system is badly damaged because of the HIV virus. HIV is a virus that attacks cells that help the body fight infection, making a person more vulnerable to other infections and diseases.1 HIV/AIDS is spread through specific bodily fluids like semen and blood. It is now most often spread during unprotected sex and through sharing needles.\nAIDS was connected upon its discovery to gay men but it is important to mention that it is not only a disease that has and does affect homosexual men. IV drug users, Haitians, hemophiliacs, blood transfusion recipients, and children of HIV positive women were all populations alongside gay men who sought treatment, research, and services for their health problems. However, since this project’s scope is gay men and their establishments this page will focus primarily on AIDS issues that effected gay men.",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
@@ -254,17 +244,37 @@
     "href": "AIDS.html#when-was-aids-first-discovered-in-america",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
     "section": "When was AIDS first “discovered” in America?",
-    "text": "When was AIDS first “discovered” in America?\nAIDS was first “discovered” in America in 1981, however we have evidence that shows AIDS/HIV had been in the United States since the late 1970s.2",
+    "text": "When was AIDS first “discovered” in America?\nAIDS was first “discovered” in America in 1981, however we have evidence that shows AIDS/HIV had been in the United States since the late 1970s.2 AIDS is believed to have come from Africa where it had been in existence for decades in remote areas. The people there called it the wasting disease. One of the first known Western cases was Grethe Rask, a Danish doctor, who worked in Zaire Africa during the 1970s. By 1976 she was very ill in Africa and by November 1977 she was forced to fly back to Denmark where she died of Pneumocysitis carinii (a type of pneumonia that typically was not deadly) on December 12, 1977.3\nIn the US some of the earliest cases within the homosexual population can be traced back to 1979 according to Randy Shilts, IV drug addicts around the same time began documenting cases of what they called “junkies pneumonia.” It was first officially written about in an MMWR report in June of 1981 titled “Pneumocystis pneumonia in homosexual men— Los Angeles” which reported on five cases of the illness in the LA area. It was then followed by “Kaposi’s Sarcoma and Pneumocystis Pneumonia Among Homosexual Men – New York and California” in July of the same year. However, in these early reports the focus is on the strange illnesses these young gay men were succumbing to as AIDS itself was unknown at the time the only thing doctors did understand was that the immune systems of these men were almost non-existent. Diseases like Kaposi’s Sarcoma, Pneumocystis carinii pneumonia, cytomegalovirus, and toxoplasmosis were therefore considered opportunistic infections that were the cause of death but not the underlying issue behind these men’s health problems. It was not until the mid-1980s that the HIV virus was identified as the cause of AIDS.4",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
   },
   {
-    "objectID": "AIDS.html#how-did-the-queer-community-react-to-it-in-the-early-days-how-did-scientists-how-did-the-government",
-    "href": "AIDS.html#how-did-the-queer-community-react-to-it-in-the-early-days-how-did-scientists-how-did-the-government",
+    "objectID": "AIDS.html#how-did-the-queer-community-react-to-it-in-the-early-days",
+    "href": "AIDS.html#how-did-the-queer-community-react-to-it-in-the-early-days",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
-    "section": "How did the queer community react to it in the early days? How did scientists? How did the government?",
-    "text": "How did the queer community react to it in the early days? How did scientists? How did the government?\n-   Need to add in this",
+    "section": "How did the queer community react to it in the early days?",
+    "text": "How did the queer community react to it in the early days?\nIn the early days of the AIDS epidemic the queer community was divided in its reaction. For those already infected or who knew of other infected friends and lovers the early period from 1980 until 1983 or so was one of great fear and loss but also one of activism and action to create support networks, hotlines, research funds, and safe sex education that would hopefully slow down transmission. These early activists in New York City include names like Larry Kramer a gay playwright who founded the GMHC (Gay Mens Health Crisis) and ACT UP during AIDS, Michael Callen and Richard Berkowitz who were some of the earliest pioneers of gay safer sex education along with Callen being the face of PWA (People With AIDS) and founding his own self help group called PWAS, and other early GMHC members like Paul Popham who was their first President.\nHowever, in these early years the vast majority of the gay population of New York City was a mix of unaware or in denial about the seriousness of AIDS due to mixed press coverage, lack of government intervention, and the feeling of gay liberation and being young and invisible. These men took longer to convince that AIDS was a big deal but through organizations like GMHC by 1983/84 more gay men were aware of the epidemic and most men began to know people who died which also increased awareness and fear. The community during this period generally came together and worked to support those with AIDS while also trying to keep people safe without knowing how the virus spread.",
+    "crumbs": [
+      "AIDS and Public Sex~ Debates on Sex Establishments"
+    ]
+  },
+  {
+    "objectID": "AIDS.html#how-did-scientists-react-to-it-in-the-early-days",
+    "href": "AIDS.html#how-did-scientists-react-to-it-in-the-early-days",
+    "title": "AIDS and Public Sex: Debates on Sex Establishments",
+    "section": "How did scientists react to it in the early days?",
+    "text": "How did scientists react to it in the early days?\nScientists at the CDC and doctors who served large gay populations in NYC and California were called into action very early on during the AIDS epidemic. The CDC was there from day one of the MMRW report and doctors like (insert guy from San Fran) and Joseph Sonnabend were some of the first to report cases and attempt treatment of the opportunistic infections. The CDC in the first few years spent its time doing epidemiology research to track and determine possible causes for the virus along with researching in labs causes and potential treatments. Their early theories are listed below but because their focus was on gay men and when they interviewed these men and found out that they were all highly sexually active and also did drugs most of the early theories focused on drug use and “promiscuity.” Their interviewing while at times misleading did lead CDC scientists to hypothesize that the disease was spread through sexual contact and more specifically through bodily fluids like blood. Doctors in the early period attempted treatment and accepted patients in high numbers, however as cases continued to rise and AIDS was connected to gay men some hospitals stopped accepting patients with AIDS symptoms which led to increased discrimination and medical issues for PWA.\nAt the same time, the stigma AIDS gained made some scientists wary of working on the disease and made the government reluctant to provide funding to the CDC, NIH, and other hospitals and scientists for research. These set backs frustrated scientists at the CDC like Don Frances and Robert Gallo at the NIH because it delayed crucial progress when the government had previously thrown money into research about toxic shock syndrome and Legionaries disease quickly because those diseases were not associated with a minority group that had significant stigma attached to it during a conservative time in American history. However by the end of 1983 Robert Gallo had identified HIV as the cause of AIDS and by 1984/5 the public was also aware of this development.",
+    "crumbs": [
+      "AIDS and Public Sex~ Debates on Sex Establishments"
+    ]
+  },
+  {
+    "objectID": "AIDS.html#how-did-the-government-react-to-it-in-the-early-days",
+    "href": "AIDS.html#how-did-the-government-react-to-it-in-the-early-days",
+    "title": "AIDS and Public Sex: Debates on Sex Establishments",
+    "section": "How did the government react to it in the early days?",
+    "text": "How did the government react to it in the early days?\nThe best way to describe government reactions to the early AIDS crisis is that there was really no major reaction. The government was aware of AIDS in 1981, however Ronald Reagan had just taken office and the government itself was leaning far more conservative in the years leading up to AIDS with the rise of the Moral Majority to power and the failures of Jimmy Carter at the end of the 70s. Gay rights and protections of homosexuals was far down on the list of priorities for Reagan and his staff when AIDS hit the news. The government provided some money and resources to the CDC and other researchers but it was slim.\nThe President and his staff offered no public statements on the epidemic until the late 1980s leaving many AIDS patients and their friends and family feeling neglected by the government and local AIDS organizations were founded to fill the needs of the people that the government was ignoring but these organizations were often overwhelmed by the needs of PWA during the early years. The government also released no advice about prevention or treatment outside of CDC publications which caused mass confusion and ignorance in the years that it mattered most as even though a few gay men put out their own advice about AIDS prevention and public health actions, such as the need to close bathhouses, most people were skeptical to make changes without scientific and governmental proof. The Surgeon General Everet Koop did not release advice on AIDS to the general public until 1988 when he pushed for publication of the pamphlet “Understanding AIDS” that caused him major backlash within the Republican Party.",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
@@ -274,7 +284,7 @@
     "href": "AIDS.html#what-were-early-theories-about-how-aids-was-transmitted",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
     "section": "What were early theories about how AIDS was transmitted?",
-    "text": "What were early theories about how AIDS was transmitted?\nPoppers: The CDC in the early days of their investigation in 1981 proposed the theory that poppers might be linked to AIDS. This conclusion was made because all of the first reported cases that they saw as linked were gay men who upon their interviews admitted to “sexual promiscuity” along with taking party drugs and sex aids like poppers. Poppers are inhaled and are known to relax muscles and to create a short lived high for users. They mess with the blood stream and veins so the CDC thought prolonged use might cause KS to develop, which was a common symptom in early patients. This theory remained in circulation until 1985 when it was determined that AIDS was caused by the HIV virus. However, some people still attribute poppers to KS and AIDS. (Use Zmith and Shilts for more details)\n-   promiscuity\n\n-   blood/virus\n\n-   multi-causal through various STI's\n\n-   drugs\n\n-   more obscure theories about Haitian pigs, mental illness, and\n    self hatred",
+    "text": "What were early theories about how AIDS was transmitted?\nPoppers: The CDC in the early days of their investigation in 1981 proposed the theory that poppers might be linked to AIDS. This conclusion was made because all of the first reported cases that they saw as linked were gay men who upon their interviews admitted to “sexual promiscuity” along with taking party drugs and sex aids like poppers. Poppers are inhaled and are known to relax muscles and to create a short lived high for users. They mess with the blood stream and veins so the CDC thought prolonged use might cause KS to develop, which was a common symptom in early patients. This theory remained in circulation until 1985 when it was determined that AIDS was caused by the HIV virus. However, some people still attribute poppers to KS and AIDS.\n-   promiscuity\n\n-   blood/virus\n\n-   multi-causal through various STI's\n\n-   drugs\n\n-   more obscure theories about Haitian pigs, mental illness, and\n    self hatred",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
@@ -314,7 +324,7 @@
     "href": "AIDS.html#were-there-options-to-re-purpose-public-sex-establishments-within-the-queer-community",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
     "section": "Were there options to re-purpose public sex establishments within the queer community?",
-    "text": "Were there options to re-purpose public sex establishments within the queer community?\n-   educational options\n\n-   increased regulations within spaces",
+    "text": "Were there options to re-purpose public sex establishments within the queer community?\nThe short answer is yes there were options proposed within the queer community to re-purpose public sex establishments like bathhouses and backroom bars during the height of the AIDS epidemic. One option that was talked about mainly by the pro-public sex side of the debate was the option for increased regulation of these spaces ranging from workers who would keep an eye on sexual activity and remove those who were being unsafe to turning more lights on so people could see if they were with someone with KS lesions. The other option that was offered and attempted was to use these sex locations as educational opportunities to teach gay men safer sex techniques.\nThe debates about closing bathhouses in New York City ended for a short time through the compromise created by the GMHC that proposed that bathhouses could operate with their support if they adopted safer sex practices and encouraged education and safety in their establishments starting in 1983/4. Many of the bathhouses agreed to this system that combined elements of both restriction and education. Michael Callen, once a frequent visitor to the baths, was tasked with conducting inspections of these establishments and grading them on their compliance. What you see below are photos of one of his inspection reports. The report shows that while there was some improvement in these locations displaying safer sex posters, offering condoms, turning on lights, and cleaning the majority of places were not holding up their end of the bargain because it was costing them customers. It is not for lack of trying that the bathhouses and backrooms were ultimately closed in 1985 in NYC as there were multiple attempts to have them regulated and made into safer spaces where sex could be had in safer but still erotic ways in places dedicated to homosexual safety.",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
@@ -324,7 +334,7 @@
     "href": "AIDS.html#outcomes-in-new-york",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
     "section": "Outcomes in New York:",
-    "text": "Outcomes in New York:\nbathhouses try to add educational content but in the end get closed by the city after extreme pressure from a portion of the queer community.",
+    "text": "Outcomes in New York:\nAs stated above the bathhouses of New York City along with the backroom bars were all closed in 1985, some managed to reopen later on but they never gained the popularity back the way it had been in the 1970s and 80s. The attempts to use them for educational purposes by GMHC were successful sometimes and sometimes they were a bust. It was not for lack of trying that the attempts at compromise to keep these historic gay spaces open failed but rather because these business owners were unwilling to give up profits for philanthropic causes and gay men who went to the establishments were unlikely to listen to safer sex advice posters unless they were already scared or curious, especially by 1985. Leading figures in gay activism fought to get these locations closed even when there were moments of compromise and potential success with Michael Callen being one of the biggest proponents of closure. Due to intense pressure from both the scientific and queer communities by 1985 there was enough evidence for the major of New York to officially shut down the baths.",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
@@ -334,7 +344,7 @@
     "href": "AIDS.html#footnotes",
     "title": "AIDS and Public Sex: Debates on Sex Establishments",
     "section": "Footnotes",
-    "text": "Footnotes\n\n\nU.S. Department of Health & Human Services, “What Are HIV and AIDS?,” HIV.gov, January 13, 2023, https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/what-are-hiv-and-aids.↩︎\nRandy Shilts, And the Band Played On: Politics, People, and the AIDS Epidemic (New York: St. Martin’s Press, 1987). (need pg).↩︎",
+    "text": "Footnotes\n\n\nU.S. Department of Health & Human Services, “What Are HIV and AIDS?,” HIV.gov, January 13, 2023, https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/what-are-hiv-and-aids.↩︎\nRandy Shilts, And the Band Played On: Politics, People, and the AIDS Epidemic (New York: St. Martin’s Press, 1987). (need pg).↩︎\nSee this work for more information on this topic. I also referenced it greatly when writing this chunk: Randy Shilts, And the Band Played On: Politics, People, and the AIDS Epidemic (New York: St. Martin’s Press, 1987). 3-7.↩︎\nSee this work for further information on the early years of AIDS. I got most of this information from this book: Randy Shilts, And the Band Played On: Politics, People, and the AIDS Epidemic (New York: St. Martin’s Press, 1987). 3-69.↩︎",
     "crumbs": [
       "AIDS and Public Sex~ Debates on Sex Establishments"
     ]
@@ -409,16 +419,6 @@
     "title": "Cabaret Licensing as Discrimination",
     "section": "Is this type of regulation still around today?",
     "text": "Is this type of regulation still around today?\nThis type of regulation is no longer in use within New York City. In 2017 the city repealed the Cabaret Licensing Law that had been enacted under Prohibition, so now there is no need for establishments to go through the process of obtaining a cabaret permit in order to have live music or dancing while also selling drinks. The license in modern times was seen as a hassle for businesses to go through rather than a potentially discriminatory regulation on queer and “rowdy” establishments the way it was during the 1920s until the late 1900s.",
-    "crumbs": [
-      "Cabaret Licensing as Discrimination"
-    ]
-  },
-  {
-    "objectID": "cabarets.html#how-do-gay-men-remember-this-type-of-restriction-and-its-impact-on-their-feelings-of-safety-or-access-to-community",
-    "href": "cabarets.html#how-do-gay-men-remember-this-type-of-restriction-and-its-impact-on-their-feelings-of-safety-or-access-to-community",
-    "title": "Cabaret Licensing as Discrimination",
-    "section": "How do gay men remember this type of restriction and its impact on their feelings of safety or access to community?",
-    "text": "How do gay men remember this type of restriction and its impact on their feelings of safety or access to community?\n-   Need to find this in my sources",
     "crumbs": [
       "Cabaret Licensing as Discrimination"
     ]
