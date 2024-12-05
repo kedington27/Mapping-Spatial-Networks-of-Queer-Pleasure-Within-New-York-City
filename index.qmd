@@ -4,7 +4,7 @@ runtime: shiny
 output: html_document
 ---
 
-Below is a map of the five boroughs of New York City's queer bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations open between 1970-1986. Some of the establishments were open before 1970 and many of them close after 1986 however these are the bounding years of my study so far. Below the map are detailed explanations of each location's history. Enjoy!
+Below is a map of the five boroughs of New York City's queer bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations open between 1970-1986. Some of the establishments were open before 1970 and many of them close after 1986 however these are the bounding years of my study so far. Below the map will be a link to a Shiny App that will allow further exploration of the locations on this Leaflet map including listing place names and filtering by type of establishment and years of operation. Enjoy!
 
 ```{r}
 #| label: set-up
