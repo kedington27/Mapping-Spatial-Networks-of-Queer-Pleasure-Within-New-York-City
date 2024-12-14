@@ -13,11 +13,12 @@ library(osmdata)
 library(mapview)
 library(tidyverse)
 library(sf)
-library(rnaturalearth)
 library(tidygeocoder)
 library(here)
+library(shiny)
 library(leaflet)
-
+library(readr)
+library(dplyr)
 
 nightlife_geo_sf1 <- st_read(dsn = "data/nightlife_geo_sf1.geojson")
 
@@ -49,6 +50,53 @@ leaflet() %>%
 ```
 
 
+
+Here is the code to my Shiny app, it is functional on my computer but I haven't 
+created the account and pipeline for it to be functional on the web yet. I did
+spend a long time on it though so I thought I would show the code for this draft.
+```{r}
+data_sf <- st_read(dsn = "data/geocodeddata/combined_nightlife_geo_sf.geojson")
+
+ui = fluidPage(
+  titlePanel("1970-1986 NYC Queer Spaces Map"),
+  sidebarLayout(
+    sidebarPanel(
+      p("This Leaflet map displays New York City's nightlife establishments with dynamic geocoding and filtering."),
+      selectInput("filter_type", "Filter by Type:", 
+                  choices = c("All", "bar","resturant","bar/resturant", "bar/restaurant", "club", "cruising", 
+                              "baths","bath", "night club", "private club", "disco", "bookstore", "sex shop", 
+                              "erotica", "cinema", "juice bar", "coffee shop", "theatre", "gym", "after hours place",
+                              "bar/disco", "cabaret", "resturant/cabaret", "bar/club", "cruising at movies",
+                              "activist dances", "massage", "leather mail order"), 
+                  selected = "All"),
+      sliderInput("filter_years", "Filter by Years of Operation:", 
+                  min = 1950, max = 2010, value = c(1950, 2010), step = 1, sep = "")
+    ),
+    
+    mainPanel(
+      leafletOutput("map")  # Output for the Leaflet map
+    )
+  )
+)
+
+server = function(input, output){
+  
+  filtereddata <- reactive({
+    data_sf |> 
+      filter(type == input$filter_type)
+  })
+  
+  
+  
+  output$map <- renderLeaflet({
+    leaflet(data = filtereddata()) %>%
+      addTiles() %>%
+      setView(-74.00, 40.71, zoom = 11) %>%
+      addCircleMarkers()
+  })}
+
+shinyApp(ui, server)
+```
 
 ```
 
