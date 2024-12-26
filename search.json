@@ -180,6 +180,13 @@
     "text": "Restaurants"
   },
   {
+    "objectID": "deleted-info.html#old-code-for-server-for-shiny-it-worked-but-trying-to-make-it-reactive-is-different-so-trying-a-different-one-on-that-project",
+    "href": "deleted-info.html#old-code-for-server-for-shiny-it-worked-but-trying-to-make-it-reactive-is-different-so-trying-a-different-one-on-that-project",
+    "title": "deleted info",
+    "section": "Old code for server for Shiny (it worked but trying to make it reactive is different so trying a different one on that project)",
+    "text": "Old code for server for Shiny (it worked but trying to make it reactive is different so trying a different one on that project)\nserver = function(input, output){\nfiltereddata &lt;- reactive({ data_sf |&gt; filter(type == input\\(filter_type) |&gt;\n      filter(opened &gt;= input\\)year_range[1], closed &lt;= input$year_range[2] | is.na(Year.closed)) })\noutput$map &lt;- renderLeaflet({ leaflet(data = filtereddata()) %&gt;% addTiles() %&gt;% setView(-74.00, 40.71, zoom = 11) %&gt;% addCircleMarkers() })}\nshinyApp(ui, server)"
+  },
+  {
     "objectID": "background.html",
     "href": "background.html",
     "title": "Background: Stonewall & 1970s Gay Liberation",
@@ -408,7 +415,7 @@
     "href": "cabarets.html#how-does-it-connect-to-lgbtq-discrimination-in-new-york-citywithin-the-us",
     "title": "Cabaret Licensing as Discrimination",
     "section": "How does it connect to LGBTQ discrimination in New York City/within the US?",
-    "text": "How does it connect to LGBTQ discrimination in New York City/within the US?\n-   Use Chauncey and Buckland\n\nAn example/story about the use of this type of regulation quoted from George Chauncey, Fiona Buckland or from a newspaper article or other primary sources\n\nNeed to find this",
+    "text": "How does it connect to LGBTQ discrimination in New York City/within the US?\nCabaret licenses were created in the 1920s during Prohibition in New York City with the intention of restricting racial intermixing via dancing along with other forms of “inappropriate” social dancing behaviors within unlicensed businesses. Like with liquor licenses places without a valid cabaret license if caught allowing people, especially mixed race or same sex couples, to dance or playing live music while also selling food would be at risk of closure. Equally locations with licenses would be at risk of losing them if caught allowing “undesirable” behaviors within their establishments. In the later 1900s after the legalization of inter-racial marriage and relationships cabaret licenses became more of a way to restrict LGBT businesses from remaining open or allowing physical touch within their grounds. By the 1990s the use of these licenses in the city against LGBT people and spaces was at its peak through rezoning efforts and reclassification of areas as non-cabaret zones. This law allowed for gay people to use spaces but restricted their use of their bodies within the space because there were cases where even touching when music was playing was considered to be in violation of the restrictions.",
     "crumbs": [
       "Cabaret Licensing as Discrimination"
     ]
@@ -418,7 +425,7 @@
     "href": "cabarets.html#how-did-queer-establishments-get-around-this-restriction-how-was-it-enforced-within-new-york",
     "title": "Cabaret Licensing as Discrimination",
     "section": "How did queer establishments get around this restriction? How was it enforced within New York?",
-    "text": "How did queer establishments get around this restriction? How was it enforced within New York?\n-   And this",
+    "text": "How did queer establishments get around this restriction? How was it enforced within New York?\nQueer establishments in the city worked around this restriction in various ways including compliance, operating in relative secrecy, and outright protest of the licensing policies. Many businesses chose to comply with the rules and stated that violations by patrons would have them removed from the property similar to liquor license compliance. Others chose to allow patrons to dance or play music or both and blacked out the windows or did other things to hide the inside of the establishment from onlookers while also often using code words to warn patrons when police were entering or planning to stop by to protect both the patrons and the business from punishment. Lastly some businesses and people especially towards the 1990s and into the 2000s began to increasingly voice their protests about the use of the license as a form of discrimination and unlawful regulation of peoples culture and sexuality. These protests included writing pamphlets, protesting legislation, directly violating the law, and creating organizations based around ending this discrimination such as these: DANCE PARADE · DANCE LIBERATION NETWORK · PEOPLE’S CULTURAL PLAN HOUSE COALITION · THE FLOASIS · COLOR OF CHANGE · LEGALIZE DANCE · DANCE NYC. The police were the enforcers of the cabaret licensing restrictions often banning musicians from playing certain establishments or closing venues due to non-compliance.",
     "crumbs": [
       "Cabaret Licensing as Discrimination"
     ]
@@ -428,7 +435,7 @@
     "href": "cabarets.html#is-this-type-of-regulation-still-around-today",
     "title": "Cabaret Licensing as Discrimination",
     "section": "Is this type of regulation still around today?",
-    "text": "Is this type of regulation still around today?\nThis type of regulation is no longer in use within New York City. In 2017 the city repealed the Cabaret Licensing Law that had been enacted under Prohibition, so now there is no need for establishments to go through the process of obtaining a cabaret permit in order to have live music or dancing while also selling drinks. The license in modern times was seen as a hassle for businesses to go through rather than a potentially discriminatory regulation on queer and “rowdy” establishments the way it was during the 1920s until the late 1900s.",
+    "text": "Is this type of regulation still around today?\nThis type of regulation is no longer in use within New York City. In 2017 the city repealed the Cabaret Licensing Law that had been enacted under Prohibition, so now there is no need for establishments to go through the process of obtaining a cabaret permit in order to have live music or dancing while also selling drinks. The license in modern times was seen as a hassle for businesses to go through rather than a potentially discriminatory regulation on queer and “rowdy” establishments the way it was during the 1920s until the late 1900s. It is interesting to note that this regulation was repealed after the 2012 legalization of gay marriage at a federal level and it likely influenced the end of cabaret licensing in the city.",
     "crumbs": [
       "Cabaret Licensing as Discrimination"
     ]
