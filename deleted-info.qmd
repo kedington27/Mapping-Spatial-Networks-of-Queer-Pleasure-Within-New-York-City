@@ -126,3 +126,24 @@ title: "deleted info"
 ## Private Clubs:
 
 ## Restaurants
+
+
+## Old code for server for Shiny (it worked but trying to make it reactive is different so trying a different one on that project)
+server = function(input, output){
+  
+  filtereddata <- reactive({
+    data_sf |> 
+      filter(type == input$filter_type) |> 
+      filter(opened >= input$year_range[1], 
+             closed <= input$year_range[2] | is.na(Year.closed))
+  })
+  
+  
+  output$map <- renderLeaflet({
+    leaflet(data = filtereddata()) %>%
+      addTiles() %>%
+      setView(-74.00, 40.71, zoom = 11) %>%
+      addCircleMarkers()
+  })}
+
+shinyApp(ui, server)
