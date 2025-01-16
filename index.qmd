@@ -21,7 +21,7 @@ visualizing the data I collected at the NYPL archives, the Center archive, and t
 NYU archive.
 
 ## Introduction to the map content
-Below is a map of the five boroughs of New York City's queer bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations open between 1970-1986. Some of the establishments were open before 1970 and many of them close after 1986 however these are the bounding years of my study so far. Below the map will be a link to a Shiny App that will allow further exploration of the locations on this Leaflet map including listing place names and filtering by type of establishment and years of operation. Enjoy!
+Below is a map of the five boroughs of New York City's queer bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations open between 1970-1986. Some of the establishments were open before 1970 and many of them close after 1986 however those are the bounding years of my study. Below the map will be a link to a Shiny App that will allow further exploration of the locations on this Leaflet map including listing place names and filtering by type of establishment and years of operation. Enjoy!
 
 ## The Leaflet Map
 ```{r}
@@ -69,51 +69,11 @@ leaflet() %>%
 
 
 ## The Shiny Map
-Here is the code to my Shiny app, it is functional on my computer but I haven't 
-created the account and pipeline for it to be functional on the web yet. I did
-spend a long time on it though so I thought I would show the code for this draft.
-```{r}
-data_sf <- st_read(dsn = "data/geocodeddata/combined_nightlife_geo_sf.geojson")
 
-ui = fluidPage(
-  titlePanel("1970-1986 NYC Queer Spaces Map"),
-  sidebarLayout(
-    sidebarPanel(
-      p("This Leaflet map displays New York City's nightlife establishments with dynamic geocoding and filtering."),
-      selectInput("filter_type", "Filter by Type:", 
-                  choices = c("All", "bar","resturant","bar/resturant", "bar/restaurant", "club", "cruising", 
-                              "baths","bath", "night club", "private club", "disco", "bookstore", "sex shop", 
-                              "erotica", "cinema", "juice bar", "coffee shop", "theatre", "gym", "after hours place",
-                              "bar/disco", "cabaret", "resturant/cabaret", "bar/club", "cruising at movies",
-                              "activist dances", "massage", "leather mail order"), 
-                  selected = "All"),
-      sliderInput("filter_years", "Filter by Years of Operation:", 
-                  min = 1950, max = 2010, value = c(1950, 2010), step = 1, sep = "")
-    ),
-    
-    mainPanel(
-      leafletOutput("map")  # Output for the Leaflet map
-    )
-  )
-)
+ "To access my interactive Shiny application map please use this link!"  
+ [Shiny Map](https://kylieedington.shinyapps.io/nightlife/)
 
-server = function(input, output){
-  
-  filtereddata <- reactive({
-    data_sf |> 
-      filter(type == input$filter_type)
-  })
-  
-  
-  
-  output$map <- renderLeaflet({
-    leaflet(data = filtereddata()) %>%
-      addTiles() %>%
-      setView(-74.00, 40.71, zoom = 11) %>%
-      addCircleMarkers()
-  })}
-
-shinyApp(ui, server)
+ 
 ```
 
 ```
