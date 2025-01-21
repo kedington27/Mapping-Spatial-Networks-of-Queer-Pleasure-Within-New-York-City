@@ -325,7 +325,7 @@ Joseph Sonnabend in New York worried that the number of infections would
 damage gay men's immune systems or that a new STI would develop that
 would be more damaging and incurable during this period. Still, most gay
 men did not listen to doctor advice due to a historical distrust of
-medicine by the community.2 When HIV/AIDS first started appearing in
+medicine by the community.[^2] When HIV/AIDS first started appearing in
 1981, these doctors had their worst fears realized. For many gay men as
 the 1980s went on, it felt as though the 1970s was a utopia that had
 been too good to be true, and new fears and restrictions bloomed in the
@@ -334,6 +334,8 @@ of the deadly epidemic to thousands of gay men, also provided gay men
 (and other allies) the tools to combat it as a community, provide
 education, and protest politically about the virus and the lack of
 governmental assistance.
+
+[^2]: For more information see Richard Berkowitz's *Staying Alive.*
 
 As I mentioned in the 1970s section, there was a large migration of
 queer men to cities which helped re-open the queer community to the
@@ -350,24 +352,24 @@ Crisis) and Michael Callen and Richard Berkowitz educate gay men about
 the risks of unprotected sex and the ways that safer sex could save
 lives. GMHC focused on the concept of eroticizing safer sex through
 using erotic videos and basing the designs of their safer sex brochures
-on sex toy ads.3 Callen and Berkowitz attempted to rally and warn the
+on sex toy ads.[^3] Callen and Berkowitz attempted to rally and warn the
 community through their pamphlet and newspaper article using slang and
 erotic terminology instead of medical terms when discussing sex, which
 GMHC later incorporated the same technique in their own educational
-programming.4 The GMHC also, in the early period, sought to use public
-sex spaces like bathhouses and backrooms as locations to teach gay men
-the benefits of safer sex because they were spaces where sex occurred
-and, therefore, could help with reaching large numbers of men and
-showing that using condoms and other safer sex methods could still be
-considered desirable within these locations.5 The idea was if the places
-were to continue to exist, they should be places where gay men could
-make educated decisions. If sex became safer and was still viewed as
-erotic enough to keep baths in business, then AIDS would be reduced
+programming.[^4] The GMHC also, in the early period, sought to use
+public sex spaces like bathhouses and backrooms as locations to teach
+gay men the benefits of safer sex because they were spaces where sex
+occurred and, therefore, could help with reaching large numbers of men
+and showing that using condoms and other safer sex methods could still
+be considered desirable within these locations.[^5] The idea was if the
+places were to continue to exist, they should be places where gay men
+could make educated decisions. If sex became safer and was still viewed
+as erotic enough to keep baths in business, then AIDS would be reduced
 through educational methods created by gay men themselves. Finally,
 political groups like ACT UP in New York formed and developed tactics
 from those used by gay liberation protests along with those from the
-feminist and civil rights movements.6 Many of the members of ACT UP were
-not part of the previous 1960s and 70s movements but those who were
+feminist and civil rights movements.[^6] Many of the members of ACT UP
+were not part of the previous 1960s and 70s movements but those who were
 brought knowledge of how to organize a group, how to get media
 attention, and most importantly, how to present a clear message about
 what a group is fighting to fix. ACT UP took elements from various
@@ -380,3 +382,16 @@ through their use of gay liberation networks and techniques, made a
 significant impact on the development of treatment for AIDS much like
 how GMHC made significant strides in prevention education through the
 use of gay liberation commercialization and eroticization of sex.
+
+[^3]: add photos of the difference and cite them here.
+
+[^4]: Here I want to cite the article and the pamphlet by Berkowitz and
+    Callen while also maybe showing photos of them (or at least the
+    front of the pamphlet)
+
+[^5]: Add in photos of the documents where they do educational
+    promotion/condom distribution/evaluations at baths and backrooms
+    here if possible and then cite them here.
+
+[^6]: For more information see Sarah Schulman's *Let the Record Show: A
+    Political History of ACT UP New York, 1987-1993.*

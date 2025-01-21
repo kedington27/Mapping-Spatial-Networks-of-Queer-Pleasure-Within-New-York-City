@@ -3,27 +3,27 @@ title: "Mapping Spatial Networks of Queer Pleasure Within New York City"
 runtime: shiny
 output: html_document
 ---
+
 ## Introduction to website goals
-The map and the companion text-based pages are an extension of my MA paper’s further 
-argument that safer sex education during AIDS was negotiated, contested, and 
-implemented in public queer spaces by queer actors. It further visually supports 
-and provides context for the acts of discrimination and general public health 
-debates that impacted queer communities and establishments before and during 
-AIDS. It visually argues that the government was both slow to shut down 
-bathhouses and backrooms during AIDS and that it continued to use tactics of 
-licensing and rezoning to discriminate against the queer community before, 
-during, and after the peak of AIDS. The aim of the website is to help
-explain queer history in New York City and the layers of medical, governmental,
-and social interaction and discrimination with the queer community along with 
-helping other people who are interested in tracking queer nightlife in New York
-City see changes in the landscape over the course of the end of the 1900s through
-visualizing the data I collected at the NYPL archives, the Center archive, and the
-NYU archive.
 
-## Introduction to the map content
-Below is a map of the five boroughs of New York City's queer bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, and cruising locations open between 1970-1986. Some of the establishments were open before 1970 and many of them close after 1986 however those are the bounding years of my study. Below the map will be a link to a Shiny App that will allow further exploration of the locations on this Leaflet map including listing place names and filtering by type of establishment and years of operation. Enjoy!
+The map and the companion text-based pages are an extension of my MA paper “Eroticizing Safer Sex: How Queer Men Negotiated Sex and Safety During the Early Years of AIDS”. Collectively I argue that safer sex education during AIDS was negotiated, contested, and implemented in public queer spaces by queer actors. This website provides context for the acts of discrimination and general public health debates that impacted queer communities and establishments before and during AIDS. It demonstrates that the government was both slow to shut down bathhouses and backrooms during AIDS and that it continued to use tactics of licensing and rezoning to discriminate against the queer community before, during, and after the peak of AIDS. The aims of the website are multifaceted. First, it helps explain queer history in New York City and the layers of medical, governmental, and social interaction and discrimination with the queer community. Second, it provides a visual representation of queer nightlife in New York City, allowing viewers to see changes in the landscape over the course of the end of the 1900s. These maps are based on data I collected at the New York Public Library’s archives, the Center archive, and the New York University archive.
 
-## The Leaflet Map
+## Introduction to the two map's general contents
+
+Below are two different maps of the five boroughs of New York City’s queer bars, clubs, bathhouses, bookstores, cinemas, restaurants, sex stores, backrooms, cruising locations, and more open between 1970-1986. Some of the establishments were open before 1970 and many of them close after 1986, however those are the bounding years of my study. Below is a link to and explanation of a Shiny App interactive map that will allow detailed exploration of these locations. Below that is a static Leaflet map that only shows the amount of locations without any filtering or interactive features. Enjoy!
+
+## The Interactive Map
+
+For a more detailed experience with my mapping of these nightlife and meeting locations use this map! By using the link below you will be brought to another page with a fully interactive map. You can filter by three different categories: type, borough, and year. To do so you can play with the filter tabs and the sliding scale. You can zoom in and out on the map and its various points through scrolling on it. Lastly, you can click on the individual points on the map to see the name of the location, the type of location, years of operation, and whether or not the dates of operation are approximate or not. All the locations that say 'yes' to the approximate label are locations that I could not find more concrete dates for in my sources. All of this information is also on the second page of the interactive map's website.
+
+"To access my interactive Shiny application map please click on this image!"
+
+[![](images/shiny-screenshot.png){fig-align="center"}](https://kylieedington.shinyapps.io/nightlife/)
+
+## The Static Map
+
+This map is purely a visualization on this page of the total number of locations within New York City during the period. It is not clickable or overly interactive, the only thing you can do with it is zoom in and out. The total number of locations on this map and the interactive one comes in at around 800!
+
 ```{r}
 #| label: set-up
 #| include: false
@@ -67,14 +67,5 @@ leaflet() %>%
   addMarkers(data = queens_nightlife_geo_sf)
 ```
 
-
-## The Shiny Map
-
- "To access my interactive Shiny application map please use this link!"  
- [Shiny Map](https://kylieedington.shinyapps.io/nightlife/)
-
- 
+```         
 ```
-
-```
-
