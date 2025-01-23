@@ -381,16 +381,20 @@ in 1985 in NYC as there were multiple attempts to have them regulated
 and made into safer spaces where sex could be had in safer but still
 erotic ways in places dedicated to homosexual safety.
 
-![One of Michael Callen's inspection reports from the baths pages 1-4.
+:::{layout-nrow=1}
+![](images/IMG_0043.jpeg){width="226"}
+
+![](images/IMG_0044.jpeg){width="226"}
+
+![](images/IMG_0045.jpeg){width="226"}
+
+![](images/IMG_0046.jpeg){width="226"}
+:::
+
+One of Michael Callen's inspection reports from the baths pages 1-4.
 Found in Gay Men's Health Crisis Records. Manuscripts and Archives
 Division. The New York Public Library. Astor, Lenox, and
-Tilden Foundations.](images/IMG_0043.jpeg){fig-align="left" width="226"}
-
-## ![](images/IMG_0044.jpeg){width="197"}
-
-![](images/IMG_0045.jpeg){fig-align="center" width="218"}
-
-![](images/IMG_0046.jpeg){fig-align="right" width="223"}
+Tilden Foundations.
 
 ## Outcomes in New York:
 
