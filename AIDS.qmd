@@ -13,11 +13,20 @@ immune system is badly damaged because of the HIV virus. HIV is a virus
 that attacks cells that help the body fight infection, making a person
 more vulnerable to other infections and diseases.[^1] HIV/AIDS is spread
 through specific bodily fluids like semen and blood. It is now most
-often spread during unprotected sex and through sharing needles.
+often spread during unprotected sex and through sharing needles.[^2]
 
 [^1]: U.S. Department of Health & Human Services, “What Are HIV and
     AIDS?,” HIV.gov, January 13, 2023,
     <https://www.hiv.gov/hiv-basics/overview/about-hiv-and-aids/what-are-hiv-and-aids>.
+
+[^2]: For a more detailed explanation of how AIDS works and the many
+    controversies surronding the spread of AIDS please refer to Steven
+    Epstein, *Impure Science : AIDS, Activism, and the Politics of
+    Knowledge* (Berkeley, Calif. Univ. Of California Press \[20\]09,
+    1996). 45-142. This is also a good resource for learning about the
+    spread of AIDS (the whole book in various sections): Randy Shilts,
+    *And the Band Played On: Politics, People, and the AIDS Epidemic*
+    (New York: St. Martin’s Press, 1987).
 
 AIDS was connected upon its discovery to gay men. Still, it is essential
 to mention that it is not only a disease that has and does affect
@@ -32,19 +41,19 @@ affect gay men.
 
 AIDS was first "discovered" in America in 1981. However, we have
 evidence that shows AIDS/HIV has been in the United States since the
-late 1970s.[^2] AIDS is believed to have come from Africa, where it has
+late 1970s.[^3] AIDS is believed to have come from Africa, where it has
 been in existence for decades in remote areas. The people there called
 it the wasting disease. One of the first known Western cases was Grethe
 Rask, a Danish doctor who worked in Zaire, Africa, during the 1970s. By
 1976, she was very ill in Africa, and by November 1977, she was forced
 to fly back to Denmark, where she died of *Pneumocystis carinii* (a type
-of pneumonia that typically was not deadly) on December 12, 1977.[^3]
+of pneumonia that typically was not deadly) on December 12, 1977.[^4]
 
-[^2]: Randy Shilts, *And the Band Played On: Politics, People, and the
+[^3]: Randy Shilts, *And the Band Played On: Politics, People, and the
     AIDS Epidemic* (New York: St. Martin’s Press, 1987). 3-102 traces
     the origins of the virus from the 1970s until 1981.
 
-[^3]: See this work for more information on this topic. I also
+[^4]: See this work for more information on this topic. I also
     referenced it greatly when writing this chunk: Randy Shilts, *And
     the Band Played On: Politics, People, and the AIDS Epidemic* (New
     York: St. Martin’s Press, 1987). 3-7.
@@ -65,9 +74,9 @@ Kaposi's Sarcoma, *Pneumocystis carinii* pneumonia, cytomegalovirus, and
 toxoplasmosis were therefore considered opportunistic infections that
 were the cause of death but not the underlying issue behind these men's
 health problems. It was not until the mid-1980s that the HIV virus was
-identified as the cause of AIDS.[^4]
+identified as the cause of AIDS.[^5]
 
-[^4]: See this work for further information on the early years of AIDS.
+[^5]: See this work for further information on the early years of AIDS.
     I got most of this information from this book: Randy Shilts, *And
     the Band Played On: Politics, People, and the AIDS Epidemic* (New
     York: St. Martin’s Press, 1987). 3-69.
@@ -86,18 +95,26 @@ during AIDS, Michael Callen and Richard Berkowitz, who were some of the
 earliest pioneers of gay safer sex education along with Callen being the
 face of PWA (People With AIDS) and founding his self-help group called
 PWAS, and other early GMHC members like Paul Popham who was their first
-President.
+President.[^6]
+
+[^6]: Richard Berkowitz, *Stayin’ Alive: The Invention of Safe Sex, a
+    Personal History* (Boulder, Co: Westview Press, 2003). 51-185. David
+    France, *How to Survive a Plague: The Story of How Activists and
+    Scientists Tamed AIDS* (New York: Vintage Books, 2017). 31-32,
+    50-54.
 
 However, in these early years, the vast majority of the gay population
 of New York City was a mix of unaware or in denial about the seriousness
 of AIDS due to mixed press coverage, lack of government intervention,
-and the feeling of gay liberation and being young and invisible. These
-men took longer to convince that AIDS was a big deal. Still, through
-organizations like GMHC, by 1983/84, more gay men were aware of the
-epidemic. Most men began to know people who died, which also increased
-awareness and fear. The community during this period generally came
-together and worked to support those with AIDS while also trying to keep
-people safe without knowing how the virus spread.
+and the feeling of gay liberation and being young and invisible.[^7]
+These men took longer to convince that AIDS was a big deal. Still,
+through organizations like GMHC, by 1983/84, more gay men were aware of
+the epidemic. Most men began to know people who died, which also
+increased awareness and fear. The community during this period generally
+came together and worked to support those with AIDS while also trying to
+keep people safe without knowing how the virus spread.
+
+[^7]: Berkowitz *Stayin' Alive.* 161-162, 172-174.
 
 ## How did scientists react to it in the early days?
 
@@ -119,7 +136,10 @@ through bodily fluids like blood. Doctors in the early period attempted
 treatment and accepted patients in high numbers; however, as cases
 continued to rise and AIDS was connected to gay men, some hospitals
 stopped accepting patients with AIDS symptoms, which led to increased
-discrimination and medical issues for PWA.
+discrimination and medical issues for PWA.[^8]
+
+[^8]: Shilts *And the Band Played On*. (). France *How to Survive a
+    Plague.* ()
 
 At the same time, the stigma AIDS gained made some scientists wary of
 working on the disease and made the government reluctant to provide
@@ -132,7 +152,10 @@ those diseases were not associated with a minority group that had
 significant stigma attached to it during a conservative time in American
 history. However, by the end of 1983, Robert Gallo had identified HIV as
 the cause of AIDS. By 1984/5, the public was also aware of this
-development.
+development.[^9]
+
+[^9]: This section is based on information from Shilts *And the Band
+    Played On.* () and Epstein, *Impure Science.* ().
 
 ## How did the government react to it in the early days?
 
@@ -141,10 +164,18 @@ is that there was really no major reaction. The government became aware
 of AIDS in 1981. However, Ronald Reagan had just taken office, and the
 government itself was leaning far more conservative in the years leading
 up to AIDS with the rise of the Moral Majority to power and the failures
-of Jimmy Carter at the end of the 70s. Gay rights and protections of
-homosexuals were far down on the list of priorities for Reagan and his
-staff when AIDS hit the news. The government provided some money and
+of Jimmy Carter at the end of the 70s.[^10] Gay rights and protections
+of homosexuals were far down on the list of priorities for Reagan and
+his staff when AIDS hit the news. The government provided some money and
 resources to the CDC and other researchers, but it was limited.
+
+[^10]: For more information on the conservative swing leading into the
+    1980s or Regan's presidency and political ideology please refer to
+    Julian E Zelizer and Bruce J Schulman, *Rightward Bound: Making
+    America Conservative in the 1970’S* (Cambridge, Ma; London: Harvard
+    University Press, 2008). () and Douglas C Rossinow, *The Reagan Era:
+    A History of the 1980s* (New York: Columbia University Press, 2017)
+    ().
 
 The President and his staff offered no public statements on the epidemic
 until the late 1980s, leaving many AIDS patients and their friends and
@@ -160,7 +191,13 @@ were skeptical about making changes without scientific and governmental
 proof. Surgeon General Everett Koop did not release advice on AIDS to
 the general public until 1988, when he pushed for the publication of the
 pamphlet "Understanding AIDS," which caused him a significant backlash
-within the Republican Party.
+within the Republican Party.[^11]
+
+[^11]: Jennifer Brier, *Infectious Ideas: U.S. Political Responses to
+    the AIDS Crisis* (Chapel Hill N.C.: University Of North Carolina
+    Press, 2009). (). Alexandra Lord, *Condom Nation: The U.S.
+    Government’s Sex Education Campaign from World War I to the
+    Internet* (Johns Hopkins University Press, 2010). ().
 
 ## What were early theories about how AIDS was transmitted?
 
@@ -169,13 +206,22 @@ proposed the theory that poppers might be linked to AIDS. This
 conclusion was made because all of the first reported cases that they
 saw as linked were gay men who, upon their interviews, admitted to
 "sexual promiscuity" along with taking party drugs and sex aids like
-poppers. Poppers are inhaled and are known to relax muscles and create a
-short-lived high for users. They mess with the bloodstream and veins, so
-the CDC thought prolonged use might cause KS to develop, which was a
-common symptom in early patients. This theory remained in circulation
-until 1983 (but 84 for the general public), when it was determined that
-AIDS was caused by the HIV virus. However, some people still attribute
-poppers to KS and AIDS.
+poppers.[^12] Poppers are inhaled and are known to relax muscles and
+create a short-lived high for users.[^13] They mess with the bloodstream
+and veins, so the CDC thought prolonged use might cause KS to develop,
+which was a common symptom in early patients. This theory remained in
+circulation until 1983 (but 84 for the general public), when it was
+determined that AIDS was caused by the HIV virus. However, some people
+still attribute poppers to KS and AIDS.
+
+[^12]: Shilts *And the Band Played On.* ().
+
+[^13]: They remain a popular drug to this day within the queer
+    community. For more information about poppers and their long term
+    significance in queer history see Adam Zmith, *Deep Sniff: A History
+    of Poppers and Queer Futures* (London: Watkins Media Limited, 2021).
+    For queer media coverage of poppers see the US version of Queer As
+    Folk or more recently Season 1 Episode 8 of English Teacher on Hulu.
 
 ![A popper ad from Ciao! magazine in 1978 found in Lesbian, gay,
 bisexual and transgender collection. Manuscripts and Archives Division.
@@ -190,7 +236,10 @@ interviewed stated that they had sex with hundreds to thousands of men
 during their lifetime. This theory is also linked to the multi-causal
 theory that remained prominent for the first few years of AIDS before it
 was determined to be a virus. However, high amounts of sexual contact
-are the primary way the virus is spread, but it is not the cause of HIV.
+are the primary way the virus is spread, but it is not the cause of
+HIV.[^14]
+
+[^14]: Shilts *And the Band Played On.* ().
 
 **Blood/Bodily Fluids/Virus**: As early as the beginning of 1982, the
 CDC had a working theory that the disease was a virus transferred via
@@ -205,7 +254,9 @@ successful in 1983/84. There is some contention about who discovered it
 first. Still, they were ultimately determined to be co-discoverers of
 the virus. By 1984/5, the public was aware that HIV caused the disease,
 therefore making it a viral illness that could potentially be treated
-with medicine that was then under development.
+with medicine that was then under development.[^15]
+
+[^15]: Shilts *And the Band Played On.* ().
 
 **Multi-causal through various STIs**: This theory was very popular from
 around 1982 until 1984 or so. The idea was that because gay men were
@@ -221,7 +272,9 @@ sexual encounter to catch a virus. While they were proven wrong in 1985
 with the discovery of the HIV virus, Callen and others remained
 skeptical that HIV was the true cause of their plight and continued to
 push for and believe in the multi-causal theory claiming that the virus
-theory had too many holes and was not backed by enough evidence.
+theory had too many holes and was not backed by enough evidence.[^16]
+
+[^16]: Berkowitz. *Stayin' Alive.* ().
 
 **Drugs**: Similar to the poppers theory, there was a connection early
 on between party drugs, street drugs, and HIV/AIDS due to the groups who
@@ -231,7 +284,9 @@ of drugs was tainted, which caused this mass string of illnesses. Like
 poppers, this line of inquiry remained in public discourse for years,
 but it lost credibility in scientific circles when no tainted drugs were
 found, and other evidence, like babies and blood transfusion recipients
-also contracting HIV/AIDS, emerged.
+also contracting HIV/AIDS, emerged.[^17]
+
+[^17]: Shilts *And the Band Played On.* ().
 
 ## How do public sex establishments fit into the picture?
 
@@ -246,19 +301,23 @@ the spaces. Although the spaces were often raided and closed and people
 arrested, there was a feeling of safety in numbers, and bathhouses,
 starting around the 1950s, were finally a place where men could have sex
 with other men without having to risk public sex like cruising or have
-to bring them home which many men could not do. By the 1970s and gay
-liberation, this history of gay bars and bathhouses was ingrained in the
-community, and these places were viewed both as sexual havens and as a
-core part of the gay experience and history. However, the opening of the
-proverbial closet in the 1970s due to Stonewall and consumer marketing
-towards gay men led to a mass influx of new establishments created for
-sexual encounters along with the traditional bars. While innovative,
-many of these locations were dirty and poorly run, and by the 1980s, men
-could have dozens of sexual encounters in one night due to mass gay
-migrations to cities and the ease of access to other willing men in
-bathhouses and backrooms. When AIDS emerges, these places are hot spots
-for the spread of the disease due to the unsafe nature of the encounters
-and the number of men who use them.
+to bring them home which many men could not do.[^18] By the 1970s and
+gay liberation, this history of gay bars and bathhouses was ingrained in
+the community, and these places were viewed both as sexual havens and as
+a core part of the gay experience and history. However, the opening of
+the proverbial closet in the 1970s due to Stonewall and consumer
+marketing towards gay men led to a mass influx of new establishments
+created for sexual encounters along with the traditional bars. While
+innovative, many of these locations were dirty and poorly run, and by
+the 1980s, men could have dozens of sexual encounters in one night due
+to mass gay migrations to cities and the ease of access to other willing
+men in bathhouses and backrooms. When AIDS emerges, these places are hot
+spots for the spread of the disease due to the unsafe nature of the
+encounters and the number of men who use them.
+
+[^18]: Allan Bérubé, “The History of Gay Bathhouses,” *Journal of
+    Homosexuality* 44, no. 3-4 (August 4, 2003): 33–53,
+    <https://doi.org/10.1300/j082v44n03_03>. 33-53.
 
 ## Closing public sex establishments as a Public Health measure defended:
 
@@ -269,12 +328,12 @@ the CDC pushed the hypothesis that AIDS was spread through sexual
 contact, most likely via bodily fluids. Scientists like Selma Dritz
 began advocating for the closure of bathhouses to newspapers and gay men
 because the baths were "biological cesspools for infection," but her
-early calls fell on deaf ears.[^5] Other officials also made calls for
+early calls fell on deaf ears.[^19] Other officials also made calls for
 bathhouse closure in California and New York, like Ruth Silver, who
 stated, "If you're saying that this can be spread through sexual
 contact, it makes sense to me to have the public health department get a
 court order to shut down the gay bathhouses. That would probably save
-lives."[^6] Her words, like those of Dritz, were rejected and ignored.
+lives."[^20] Her words, like those of Dritz, were rejected and ignored.
 Months later, other politically active San Francisco gay men like Bill
 Kraus, Clive Jones, and Ron Huberman took it upon themselves to write a
 piece for publication that aimed to be a wake-up call to the community
@@ -286,7 +345,7 @@ bathhouse closure. The earliest safer sex calls came from Richard
 Berkowitz and Michael Callen in New York, with their first article
 coming out in the fall of 1982 titled "We Know Who We Are." The article
 was a call to gay men to stop unsafe sex and bathhouse use, and they
-received intense backlash.[^7] Their second attempt was a pamphlet in
+received intense backlash.[^21] Their second attempt was a pamphlet in
 1983 that taught men how to use safer sex techniques and broke down what
 was safe and what was risky, including warning men about bathhouses.
 Larry Kramer, another prominent figure in New York queer circles, was
@@ -297,13 +356,13 @@ of baths remaining open and unchanging in their health standards. Their
 goal was to protect the community and to get the community to seek
 closure, which would pressure the government to shut down the baths.
 
-[^5]: Shilts, *And the Band Played On.* 154.
+[^19]: Shilts, *And the Band Played On.* 154.
 
-[^6]: Shilts, *And the Band Played On.* 259-260.
+[^20]: Shilts, *And the Band Played On.* 259-260.
 
-[^7]: Shilts, *And the Band Played On.* 209. Richard Berkowitz, *Stayin’
-    Alive: The Invention of Safe Sex, a Personal History* (Boulder, Co:
-    Westview Press, 2003). 149-157, 161-174.
+[^21]: Shilts, *And the Band Played On.* 209. Richard Berkowitz,
+    *Stayin’ Alive: The Invention of Safe Sex, a Personal History*
+    (Boulder, Co: Westview Press, 2003). 149-157, 161-174.
 
 ## Personal freedom to attend public sex establishments defended:
 
@@ -348,9 +407,9 @@ would still reduce encounters by a significant amount. Despite these
 counterarguments, the personal freedoms side remained strong well into
 the 1990s, and they raised interesting points about the limits between
 personal choice and risk, community values and protections, and public
-health that are still issues today.[^8]
+health that are still issues today.[^22]
 
-[^8]: Much of this section was based on ideas from Cindy Patton, *Sex &
+[^22]: Much of this section was based on ideas from Cindy Patton, *Sex &
     Germs: The Politics of AIDS* (Montreal ; New York: Black Rose Books,
     Cop, 1986). 150-151. and Ephen Glenn Colter and Dangerous
     Bedfellows, *Policing Public Sex: Queer Politics and the Future of
