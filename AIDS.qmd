@@ -41,7 +41,8 @@ to fly back to Denmark, where she died of *Pneumocystis carinii* (a type
 of pneumonia that typically was not deadly) on December 12, 1977.[^3]
 
 [^2]: Randy Shilts, *And the Band Played On: Politics, People, and the
-    AIDS Epidemic* (New York: St. Martin’s Press, 1987). (need pg).
+    AIDS Epidemic* (New York: St. Martin’s Press, 1987). 3-102 traces
+    the origins of the virus from the 1970s until 1981.
 
 [^3]: See this work for more information on this topic. I also
     referenced it greatly when writing this chunk: Randy Shilts, *And
@@ -296,11 +297,13 @@ of baths remaining open and unchanging in their health standards. Their
 goal was to protect the community and to get the community to seek
 closure, which would pressure the government to shut down the baths.
 
-[^5]: Shilts, 154.
+[^5]: Shilts, *And the Band Played On.* 154.
 
-[^6]: Shilts 259-260.
+[^6]: Shilts, *And the Band Played On.* 259-260.
 
-[^7]: Shilts, 209. Berkowitz ().
+[^7]: Shilts, *And the Band Played On.* 209. Richard Berkowitz, *Stayin’
+    Alive: The Invention of Safe Sex, a Personal History* (Boulder, Co:
+    Westview Press, 2003). 149-157, 161-174.
 
 ## Personal freedom to attend public sex establishments defended:
 
@@ -347,8 +350,12 @@ the 1990s, and they raised interesting points about the limits between
 personal choice and risk, community values and protections, and public
 health that are still issues today.[^8]
 
-[^8]: Much of this section was based on ideas from Duggan *Sex Wars* and
-    Dangerous Bedfellows *Policing Public Sex.*
+[^8]: Much of this section was based on ideas from Cindy Patton, *Sex &
+    Germs: The Politics of AIDS* (Montreal ; New York: Black Rose Books,
+    Cop, 1986). 150-151. and Ephen Glenn Colter and Dangerous
+    Bedfellows, *Policing Public Sex: Queer Politics and the Future of
+    AIDS Activism* (South End, 1997). 13-20, 25-44, 53-86, 91-104,
+    144-166, 187-262.
 
 ## Were there options to re-purpose public sex establishments within the queer community?
 
@@ -381,7 +388,7 @@ in 1985 in NYC as there were multiple attempts to have them regulated
 and made into safer spaces where sex could be had in safer but still
 erotic ways in places dedicated to homosexual safety.
 
-:::{layout-nrow=1}
+::: {layout-nrow="1"}
 ![](images/IMG_0043.jpeg){width="226"}
 
 ![](images/IMG_0044.jpeg){width="226"}
