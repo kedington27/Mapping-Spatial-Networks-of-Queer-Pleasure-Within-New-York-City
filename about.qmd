@@ -4,7 +4,6 @@ editor:
   markdown: 
     wrap: 72
 ---
-
 This webpage serves as the second part of my MA portfolio project. In
 its current form, it is the beginning of the final project. This is a
 website that will trace the history of queer spatial geography in New
@@ -87,4 +86,3 @@ You all helped me stay sane or at least offered to listen to my problems
 and appear somewhat interested in them! To anyone I missed, it was not
 intentional. I have greatly appreciated everyone's help on this project,
 no matter how large or small the contribution appeared, so thank you!
-

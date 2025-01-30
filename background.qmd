@@ -5,7 +5,7 @@ editor:
     wrap: 72
 ---
 
-## Before Stonewall: A Brief recounting of American Queer History
+## Before Stonewall: A Brief Recounting of American Queer History
 
 It is important to mention and always remember that queer history within
 the United States did not start with Stonewall, nor did queer political
