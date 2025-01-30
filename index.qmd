@@ -16,7 +16,7 @@ Below are two different maps of the five boroughs of New York City’s queer bar
 
 For a more detailed experience with my mapping of these nightlife and meeting locations use this map! By using the link below you will be brought to another page with a fully interactive map. You can filter by three different categories: type, borough, and year. To do so you can play with the filter tabs and the sliding scale. You can zoom in and out on the map and its various points through scrolling on it. Lastly, you can click on the individual points on the map to see the name of the location, the type of location, years of operation, and whether or not the dates of operation are approximate or not. All the locations that say 'yes' to the approximate label are locations that I could not find more concrete dates for in my sources. All of this information is also on the second page of the interactive map's website.
 
-"To access my interactive Shiny application map please click on this image!"
+To access my interactive Shiny application map please click on this image!
 
 [![](images/shiny-screenshot.png){fig-align="center"}](https://kylieedington.shinyapps.io/nightlife/)
 
@@ -56,6 +56,7 @@ staten_nightlife_geo_sf <- st_read(dsn = "data/staten_nightlife_geo_sf.geojson")
 
 ```{r}
 #| fig-align: center
+#| echo: false
 
 leaflet() %>%
   addTiles() %>%
