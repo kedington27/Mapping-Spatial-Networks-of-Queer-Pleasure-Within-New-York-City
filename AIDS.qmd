@@ -150,12 +150,13 @@ progress when the government had previously thrown money into research
 about toxic shock syndrome and Legionary disease quickly. After all,
 those diseases were not associated with a minority group that had
 significant stigma attached to it during a conservative time in American
-history. However, by the end of 1983, Robert Gallo had identified HIV as
-the cause of AIDS. By 1984/5, the public was also aware of this
+history. However, by the beginning of 1984, Robert Gallo had identified
+HIV as the cause of AIDS. By 1984/5, the public was also aware of this
 development.[^9]
 
 [^9]: This section is based on information from Shilts *And the Band
-    Played On.* () and Epstein, *Impure Science.* (11, 67-68, 96, 187.
+    Played On.* 62-226, 349-388, 409, 419-420, and Epstein, *Impure
+    Science.* 11, 67-68, 96, 187.
 
 ## How did the government react to it in the early days?
 
@@ -223,11 +224,12 @@ still attribute poppers to KS and AIDS.
     For queer media coverage of poppers see the US version of Queer As
     Folk or more recently Season 1 Episode 8 of English Teacher on Hulu.
 
-![A popper ad from Ciao! magazine in 1978 found in Lesbian, gay,
+::: {layout-nrow="1"}
+![*A popper ad from Ciao! magazine in 1978 found in Lesbian, gay,
 bisexual and transgender collection. Manuscripts and Archives Division.
 The New York Public Library. Astor, Lenox, and
-Tilden Foundations.](images/IMG_0048.jpeg){fig-align="right"
-width="201"}
+Tilden Foundations.*](images/IMG_0048.jpeg){width="201"}
+:::
 
 **Promiscuity**: This early theory is linked to the theory for poppers.
 The CDC, in the early days, thought that "sexual promiscuity" along with
@@ -256,7 +258,7 @@ the virus. By 1984/5, the public was aware that HIV caused the disease,
 therefore making it a viral illness that could potentially be treated
 with medicine that was then under development.[^15]
 
-[^15]: Shilts *And the Band Played On.* ().
+[^15]: Shilts *And the Band Played On.* 409, 419-4263.
 
 **Multi-causal through various STIs**: This theory was very popular from
 around 1982 until 1984 or so. The idea was that because gay men were
@@ -275,6 +277,8 @@ push for and believe in the multi-causal theory claiming that the virus
 theory had too many holes and was not backed by enough evidence.[^16]
 
 [^16]: Berkowitz. *Stayin' Alive.* 115-116.
+
+{{< video https://www.youtube.com/embed/VYkfeKlOW3s width="600" height="400" >}}
 
 **Drugs**: Similar to the poppers theory, there was a connection early
 on between party drugs, street drugs, and HIV/AIDS due to the groups who
@@ -318,6 +322,17 @@ encounters and the number of men who use them.
 [^18]: Allan Bérubé, “The History of Gay Bathhouses,” *Journal of
     Homosexuality* 44, no. 3-4 (August 4, 2003): 33–53,
     <https://doi.org/10.1300/j082v44n03_03>. 33-53.
+
+::: {layout-nrow="1"}
+![](images/IMG_0070.jpeg){width="300"}
+
+*This is a photo of the Everard Baths which was a very popular bathhouse
+among gay men in the city during the early 1900s until 1986 when it
+closed due to government intervention.*
+
+*Cited: "Visual Collection, box 1/folder 5, The LGBT Community Center
+National History Archive.”*
+:::
 
 ## Closing public sex establishments as a Public Health measure defended:
 
@@ -457,10 +472,10 @@ erotic ways in places dedicated to homosexual safety.
 ![](images/IMG_0046.jpeg){width="226"}
 :::
 
-One of Michael Callen's inspection reports from the baths pages 1-4.
+*One of Michael Callen's inspection reports from the baths pages 1-4.
 Found in Gay Men's Health Crisis Records. Manuscripts and Archives
 Division. The New York Public Library. Astor, Lenox, and
-Tilden Foundations.
+Tilden Foundations.*
 
 ## Outcomes in New York:
 
@@ -480,3 +495,14 @@ Callen being one of the biggest proponents of closure. Due to intense
 pressure from both the scientific and queer communities, by 1985, there
 was enough evidence for the mayor of New York to officially shut down
 the baths.
+
+::: {layout-nrow="1"}
+![](images/IMG_0072.jpeg){width="300"}
+
+*The closure notice from the Mineshaft in 1985. The Mineshaft had been a
+very popular backroom bar during the 1970s and 80s that was known for
+its sexual spaces and lack of safe sex regulations.*
+
+*Cited: "Visual Collection, box 1/folder 5, The LGBT Community Center
+National History Archive.”*
+:::

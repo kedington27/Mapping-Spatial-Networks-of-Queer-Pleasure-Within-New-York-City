@@ -11,10 +11,14 @@ A liquor license is a permit issued by the government for businesses to
 sell, manufacture, store, or otherwise use alcoholic beverages.[^1]
 
 [^1]: “Liquor License,” Wikipedia, February 16, 2020,
-    <https://en.wikipedia.org/wiki/Liquor_license>.
+    <https://en.wikipedia.org/wiki/Liquor_license>. The photo of the
+    Studio 54 liquor license was found on
+    [Reddit](https://www.reddit.com/r/mildlyinteresting/comments/iwz0te/the_liquor_license_from_studio_54_hanging_in_a/?rdt=62108).
 
-[![A liquor license from Studio 54 in NYC that expired in
-1980.](images/liquor-license-photo-01.jpeg){fig-align="right"}](https://www.reddit.com/r/mildlyinteresting/comments/iwz0te/the_liquor_license_from_studio_54_hanging_in_a/?rdt=62108)
+::: {layout-nrow="1"}
+![](images/liquor-license-photo-01.jpeg){width="250"} *A liquor license
+from Studio 54 in NYC that expired in 1980.*
+:::
 
 ## How does it connect to LGBTQ discrimination in New York City/within the US?
 

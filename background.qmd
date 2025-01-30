@@ -140,7 +140,10 @@ discrimination and mistreatment by mafia owners, police, and the
 government that built up into resentment and finally into political
 action.
 
-![](images/stonewall-photo-01.jpeg){width="590"}
+::: {layout-nrow="1"}
+![*Image of the Stonewall Inn in 2022 taken by
+me!*](images/stonewall-photo-01.jpeg){width="590"}
+:::
 
 #### Quoted: Full Moon Over the Stonewall: Howard Smith’s Account of the Stonewall Riots
 
@@ -292,8 +295,8 @@ police did it. The courts will say that we are innocent.*
 
 *Who isn’t, I thought, as I dropped my scimitar and departed.*[^8]
 
-[^8]: *For a link to the full article see:
-    <https://www.villagevoice.com/full-moon-over-the-stonewall-howard-smiths-account-of-the-stonewall-riots/>*
+[^8]: For a link to the full article see:
+    <https://www.villagevoice.com/full-moon-over-the-stonewall-howard-smiths-account-of-the-stonewall-riots/>.
 
 ## 1970s = Welcome to Gay Liberation
 
@@ -328,6 +331,22 @@ sides of liberation occurred nationally.
 
 [^10]: Randy Shilts, *And the Band Played On: Politics, People, and the
     AIDS Epidemic* (New York: St. Martin’s Press, 1987). 11-53.
+
+::: {layout-nrow="3"}
+![](images/IMG_0073.jpeg){width="250"}
+![](images/IMG_0078.jpeg){width="250"}
+![](images/IMG_0077.jpeg){width="250"}
+![](images/IMG_0076.jpeg){width="250"}
+![](images/IMG_0075.jpeg){width="250"}
+![](images/IMG_0074.jpeg){width="250"}
+![](images/IMG_0073-01.jpeg){width="250"}
+
+*Here are some calendar drawings of some of the most popular locations
+within the New York gay scene in the 1970s.*
+
+*Cited: “\[Visual Collection\], \[box 1/folder 5\], The LGBT Community
+Center National History Archive.”*
+:::
 
 The sexual and commercial side of liberation was revolutionary and only
 possible because of the political advancement and the willingness of a
@@ -397,24 +416,84 @@ Crisis) and Michael Callen and Richard Berkowitz educate gay men about
 the risks of unprotected sex and the ways that safer sex could save
 lives. GMHC focused on the concept of eroticizing safer sex through
 using erotic videos and basing the designs of their safer sex brochures
-on sex toy ads.[^12] Callen and Berkowitz attempted to rally and warn
-the community through their pamphlet and newspaper article using slang
-and erotic terminology instead of medical terms when discussing sex,
-which GMHC later incorporated the same technique in their own
-educational programming.[^13] The GMHC also, in the early period, sought
-to use public sex spaces like bathhouses and backrooms as locations to
-teach gay men the benefits of safer sex because they were spaces where
-sex occurred and, therefore, could help with reaching large numbers of
-men and showing that using condoms and other safer sex methods could
-still be considered desirable within these locations.[^14] The idea was
-if the places were to continue to exist, they should be places where gay
-men could make educated decisions. If sex became safer and was still
-viewed as erotic enough to keep baths in business, then AIDS would be
-reduced through educational methods created by gay men themselves.
+on sex toy ads.
+
+::: {layout-nrow="3"}
+![](images/IMG_0047.jpeg){width="250"}
+![](images/IMG_0065.jpeg){width="250"}
+![](images/IMG_0042.jpeg){width="250"}
+![](images/IMG_0094.jpeg){width="250"}
+![](images/IMG_0110-01.jpeg){width="250"}
+![](images/IMG_0111-01.jpeg){width="250"}
+
+*Found in Gay Men's Health Crisis Records. Manuscripts and Archives
+Division. The New York Public Library. Astor, Lenox, and
+Tilden Foundations.*
+
+*Found in Lesbian Gay Bisexual Transgender Periodicals Collection.
+Manuscripts and Archives Division. The New York Public Library. Astor,
+Lenox, and Tilden Foundations.*
+:::
+
+Callen and Berkowitz attempted to rally and warn the community through
+their pamphlet and newspaper article using slang and erotic terminology
+instead of medical terms when discussing sex, which GMHC later
+incorporated the same technique in their own educational
+programming.[^12]
+
+[^12]: Richard Berkowitz and Michael Callen, *How to Have Sex in an
+    Epidemic: One Approach* (Front Publications, 1983). You can easily
+    find a copy of it in the back of Richard Berkowitz's autobiography
+    *Staying Alive* or through just a Google search.
+
+::: {layout-n-row="1"}
+![](images/how-to-have-sex-image.jpeg){width="300"}
+
+*The front cover of the original production of Richard Berkowitz and
+Michael Callen's pamphlet "How to Have Sex in an Epidemic One
+Approach."*
+
+*Image found at:
+https://richardberkowitz.com/category/4-how-to-have-sex-in-an-epidemic/*
+:::
+
+The GMHC also, in the early period, sought to use public sex spaces like
+bathhouses and backrooms as locations to teach gay men the benefits of
+safer sex because they were spaces where sex occurred and, therefore,
+could help with reaching large numbers of men and showing that using
+condoms and other safer sex methods could still be considered desirable
+within these locations. The idea was if the places were to continue to
+exist, they should be places where gay men could make educated
+decisions. If sex became safer and was still viewed as erotic enough to
+keep baths in business, then AIDS would be reduced through educational
+methods created by gay men themselves.
+
+::: {layout-nrow="4"}
+![](images/IMG_0084.jpeg){width="250"}
+![](images/IMG_0095.jpeg){width="250"}
+![](images/IMG_0089.jpeg){width="250"}
+![](images/IMG_0090.jpeg){width="250"}
+![](images/IMG_0091.jpeg){width="250"}
+![](images/IMG_0092.jpeg){width="250"}
+![](images/IMG_0093.jpeg){width="250"}
+![](images/IMG_0112.jpeg){width="250"}
+![](images/IMG_0113.jpeg){width="250"}
+![](images/IMG_0114.jpeg){width="250"}
+![](images/IMG_0115.jpeg){width="250"}
+![](images/IMG_0088.jpeg){width="250"}
+
+*Sex Is Wonderful Poster is from “Joseph Sonnabend Papers, box 9/folder
+55, The LGBT Community Center National History Archive.”*
+
+*Everything else is found in Gay Men's Health Crisis Records.
+Manuscripts and Archives Division. The New York Public Library. Astor,
+Lenox, and Tilden Foundations.*
+:::
+
 Finally, political groups like ACT UP (AIDS Coalition to Unleash Power)
 in New York formed and developed tactics from those used by gay
 liberation protests along with those from the feminist and civil rights
-movements.[^15] Many of the members of ACT UP were not part of the
+movements.[^13] Many of the members of ACT UP were not part of the
 previous 1960s and 70s movements but those who were brought knowledge of
 how to organize a group, how to get media attention, and most
 importantly, how to present a clear message about what a group is
@@ -430,18 +509,7 @@ significant strides in prevention education through the use of gay
 liberation commercialization and eroticization of sex that saved lives
 when treatment was not an option.
 
-[^12]: add photos of the difference and cite them here.
-
-[^13]: Richard Berkowitz and Michael Callen, *How to Have Sex in an
-    Epidemic: One Approach* (Front Publications, 1983). You can easily
-    find a copy of it in the back of Richard Berkowitz's autobiography
-    *Staying Alive* or through just a Google search.
-
-[^14]: Add in photos of the documents where they do educational
-    promotion/condom distribution/evaluations at baths and backrooms
-    here if possible and then cite them here.
-
-[^15]: For more information on this whole section on ACT UP and AIDS
+[^13]: For more information on this whole section on ACT UP and AIDS
     relationship to other activist movements see Sarah Schulman, *Let
     the Record Show: A Political History of ACT up New York, 1987-1993*
     (New York: Farrar, Straus And Giroux, 2021). xi-33.

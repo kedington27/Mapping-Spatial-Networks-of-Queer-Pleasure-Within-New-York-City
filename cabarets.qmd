@@ -17,8 +17,8 @@ to operate with live music, dancing, and drinking.[^1]
     Insider, 2024,
     <https://www.lawinsider.com/dictionary/cabaret-license>.
 
-ID card that employee's of cabaret/entertainment locations had to have
-in NYC.
+*ID card that employee's of cabaret/entertainment locations had to have
+in NYC.*
 
 ## How does it connect to LGBTQ discrimination in New York City/within the US?
 
@@ -45,7 +45,7 @@ restrictions.[^2]
     Making of the Gay Male World, 1890-1940* (New York: Basic Books,
     1994). 352-354. Fiona Buckland, *Impossible Dance: Club Culture and
     Queer World-Making* (Middletown, Conn.: Wesleyan University Press,
-    2002). ().
+    2002). 8, 130-134, 199-200.
 
 ## How did queer establishments get around this restriction? How was it enforced within New York?
 
@@ -72,8 +72,8 @@ from playing at certain establishments or closing venues due to
 non-compliance.
 
 ::: {layout-nrow="1"}
-![image for the NYC Dance organization's protest. Found at:
-https://www.thefader.com/2017/03/21/let-nyc-dance-event-cabaret-law-new-york](images/cabaret-page-photo-nyc-dance.jpg){width="177"}
+![*image for the NYC Dance organization's protest. Found at:
+https://www.thefader.com/2017/03/21/let-nyc-dance-event-cabaret-law-new-york*](images/cabaret-page-photo-nyc-dance.jpg){width="177"}
 :::
 
 ## Is this type of regulation still around today?
@@ -92,4 +92,4 @@ the city.
 
 [^3]: Annie Correal. “After 91 Years, New York Will Let Its People
     Boogie.” *The New York Times*, October 30, 2017, sec. New York.
-    https://www.nytimes.com/2017/10/30/nyregion/new-york-cabaret-law-repeal.html.
+    <https://www.nytimes.com/2017/10/30/nyregion/new-york-cabaret-law-repeal.html>.
