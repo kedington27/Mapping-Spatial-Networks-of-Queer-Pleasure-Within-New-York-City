@@ -4,9 +4,8 @@ editor:
   markdown: 
     wrap: 72
 ---
-This webpage serves as the second part of my MA portfolio project. In
-its current form, it is the beginning of the final project. This is a
-website that will trace the history of queer spatial geography in New
+This webpage serves as the second part of my MA portfolio project.This is a
+website that traces the history of queer spatial geography in New
 York City from the 1970s until 1986. I am interested in analyzing the
 locations of what Fiona Buckland called "third spaces" for queer people,
 especially gay bars, clubs, bathhouses, bookstores, cinemas,
@@ -23,7 +22,7 @@ backrooms during AIDS and that it continued to use tactics of licensing
 and rezoning to discriminate against the queer community before, during,
 and after the peak of AIDS.
 
-In its final form, the website will trace the openings, closings, and
+In its final form, the website traces the openings, closings, and
 relocating or negotiations occurring within the city at the time to show
 the attempts by the dominant society to limit queer spaces,
 representation, and culture. It does this via mapping and adding
